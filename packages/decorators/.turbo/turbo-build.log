@@ -1,0 +1,16 @@
+
+> @plane/decorators@0.1.0 build /root/plane-hybrid-deployment/packages/decorators
+> tsdown
+
+ℹ tsdown v0.16.0 powered by rolldown v1.0.0-beta.46
+ℹ Using tsdown config: /root/plane-hybrid-deployment/packages/decorators/tsdown.config.ts
+ℹ entry: src/index.ts
+ℹ tsconfig: tsconfig.json
+ℹ Build start
+ℹ Cleaning 4 files
+ℹ dist/index.mjs        49.41 kB │ gzip:  8.71 kB
+ℹ dist/index.mjs.map    93.17 kB │ gzip: 16.05 kB
+ℹ dist/index.d.mts.map   0.76 kB │ gzip:  0.43 kB
+ℹ dist/index.d.mts       1.39 kB │ gzip:  0.51 kB
+ℹ 4 files, total: 144.73 kB
+✔ Build complete in 1410ms

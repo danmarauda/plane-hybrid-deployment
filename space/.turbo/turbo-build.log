@@ -1,0 +1,326 @@
+
+> space@1.2.0 build /root/plane-hybrid-deployment/space
+> react-router build
+
+[1m[38;5;196m[MISSING_ENV_FILE] missing /root/plane-hybrid-deployment/space/.env file (/root/plane-hybrid-deployment/space/.env)[39m[22m
+[1m[38;5;196m[MISSING_ENV_FILE] https://github.com/dotenvx/dotenvx/issues/484[39m[22m
+[38;5;142m[dotenvx@1.51.1] injecting env (0)[39m
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[1m[38;5;196m[MISSING_ENV_FILE] missing /root/plane-hybrid-deployment/space/.env file (/root/plane-hybrid-deployment/space/.env)[39m[22m
+[38;5;142m[dotenvx@1.51.1] injecting env (0)[39m
+[1m[38;5;196m[MISSING_ENV_FILE] https://github.com/dotenvx/dotenvx/issues/484[39m[22m
+[1m[38;5;196m[MISSING_ENV_FILE] missing /root/plane-hybrid-deployment/space/.env file (/root/plane-hybrid-deployment/space/.env)[39m[22m
+[1m[38;5;196m[MISSING_ENV_FILE] https://github.com/dotenvx/dotenvx/issues/484[39m[22m
+[38;5;142m[dotenvx@1.51.1] injecting env (0)[39m
+[38;5;142m[dotenvx@1.51.1] injecting env (0)[39m
+[1m[38;5;196m[MISSING_ENV_FILE] missing /root/plane-hybrid-deployment/space/.env file (/root/plane-hybrid-deployment/space/.env)[39m[22m
+[1m[38;5;196m[MISSING_ENV_FILE] https://github.com/dotenvx/dotenvx/issues/484[39m[22m
+[1m[38;5;196m[MISSING_ENV_FILE] missing /root/plane-hybrid-deployment/space/.env file (/root/plane-hybrid-deployment/space/.env)[39m[22m
+[1m[38;5;196m[MISSING_ENV_FILE] https://github.com/dotenvx/dotenvx/issues/484[39m[22m
+[38;5;142m[dotenvx@1.51.1] injecting env (0)[39m
+[1m[38;5;196m[MISSING_ENV_FILE] missing /root/plane-hybrid-deployment/space/.env file (/root/plane-hybrid-deployment/space/.env)[39m[22m
+[1m[38;5;196m[MISSING_ENV_FILE] https://github.com/dotenvx/dotenvx/issues/484[39m[22m
+[38;5;142m[dotenvx@1.51.1] injecting env (0)[39m
+vite v7.1.11 building for production...
+transforming...
+../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.3_@opentelemetry+api@1.9.0_babel-plugin_42dd1232aaaf200512ba4cae9a0c4730/node_modules/next-themes/dist/index.module.js (1:1576): A comment
+
+"/*#__PURE__*/"
+
+in "../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.3_@opentelemetry+api@1.9.0_babel-plugin_42dd1232aaaf200512ba4cae9a0c4730/node_modules/next-themes/dist/index.module.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.3_@opentelemetry+api@1.9.0_babel-plugin_42dd1232aaaf200512ba4cae9a0c4730/node_modules/next-themes/dist/index.module.js (1:2992): A comment
+
+"/*#__PURE__*/"
+
+in "../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.3_@opentelemetry+api@1.9.0_babel-plugin_42dd1232aaaf200512ba4cae9a0c4730/node_modules/next-themes/dist/index.module.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+✓ 6447 modules transformed.
+rendering chunks...
+computing gzip size...
+build/client/assets/site-E2hmg23U.webmanifest                                       0.33 kB
+build/client/assets/favicon-16x16-B_Opgp1K.png                                      0.47 kB
+build/client/assets/google-logo-r0ky5Kfn.svg                                        0.74 kB │ gzip:   0.43 kB
+build/client/assets/favicon-32x32-cfWXc3P9.png                                      0.76 kB
+build/client/assets/gitlab-logo-BL2xQyij.svg                                        1.06 kB │ gzip:   0.47 kB
+build/client/assets/github-dark-DlyHSwTQ.svg                                        1.46 kB │ gzip:   0.67 kB
+build/client/assets/gitea-logo-BAYfzmEl.svg                                         2.14 kB │ gzip:   1.04 kB
+build/client/assets/user-logged-in-BukBPDLP.svg                                     2.32 kB │ gzip:   1.04 kB
+build/client/assets/something-went-wrong-CL3KAzG8.svg                               2.61 kB │ gzip:   1.23 kB
+build/client/assets/instance-failure-C1aRKNan.svg                                   4.11 kB │ gzip:   1.28 kB
+build/client/assets/instance-failure-dark-DE7I22mw.svg                              4.11 kB │ gzip:   1.27 kB
+build/client/assets/404-DWCFZzXK.svg                                                5.42 kB │ gzip:   1.57 kB
+build/client/assets/background-pattern-dark-CmVIYUu1.svg                            6.19 kB │ gzip:   0.89 kB
+build/client/assets/background-pattern-DUvEFmph.svg                                 6.23 kB │ gzip:   0.88 kB
+build/client/assets/apple-touch-icon-BmADsVmV.png                                   6.29 kB
+build/client/assets/github-black-DmZ70PA_.png                                      14.03 kB
+build/client/assets/favicon-DJlV-mcI.ico                                           15.41 kB
+build/client/assets/inter-v13-latin-regular-BT1H-PT_.woff2                         21.56 kB
+build/client/assets/inter-v13-latin-200-BJ9n9uBU.woff2                             22.44 kB
+build/client/assets/inter-v13-latin-300-IcD-qYDc.woff2                             22.44 kB
+build/client/assets/inter-v13-latin-500-kWhwEdDH.woff2                             22.76 kB
+build/client/assets/inter-v13-latin-800-mdTeNKyI.woff2                             22.79 kB
+build/client/assets/inter-v13-latin-600-B2Ssfs8e.woff2                             22.82 kB
+build/client/assets/inter-v13-latin-700-C2zfFY7I.woff2                             22.90 kB
+build/client/.vite/manifest.json                                                   34.05 kB │ gzip:   4.18 kB
+build/client/assets/material-symbols-rounded-v168-latin-regular-DuglM4Ng.woff2    282.66 kB
+build/client/assets/logo-spinner-light-DmBc4A-4.gif                               427.97 kB
+build/client/assets/logo-spinner-dark-Cc1AqekO.gif                                976.40 kB
+build/client/assets/root-BbJEVIxR.css                                               2.26 kB │ gzip:   0.65 kB
+build/client/assets/globals-XTopdFNC.css                                           72.53 kB │ gzip:  13.33 kB
+build/client/assets/editor-BJXop2Ep-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-p0a5vmrS-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-RKmm77Av-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-NFKGp0gG-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-yIqSq-5W-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-BuFA5f_e-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-CIAgCMO5-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-CGid2EJ6-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-CxcKeB-j-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-BIzBTq4Z-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-BDzA1Ojw-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-C3WspIm--CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-B-9PHzaF-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-mFn0qowv-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-BUhZo_Cu-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-Hezb2J3S-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-9zLZkE41-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-Ckcw_rVs-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-j_r67XNG-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/something-went-wrong-BNYI9GgC.js                                0.07 kB │ gzip:   0.09 kB
+build/client/assets/use-instance-OGQKTt4A.js                                        0.24 kB │ gzip:   0.21 kB
+build/client/assets/circle-x-DM7QFWTg.js                                            0.37 kB │ gzip:   0.28 kB
+build/client/assets/page-Bs_2mVYC.js                                                0.78 kB │ gzip:   0.51 kB
+build/client/assets/not-found-CiP47GUn.js                                           0.83 kB │ gzip:   0.46 kB
+build/client/assets/accessibility-By0XUGmH-bZrkWh4o.js                              1.06 kB │ gzip:   0.43 kB
+build/client/assets/accessibility-CbnOSAaA-fHE6-fVE.js                              1.08 kB │ gzip:   0.47 kB
+build/client/assets/accessibility-CBQcMygp-DH8KgfDn.js                              1.09 kB │ gzip:   0.57 kB
+build/client/assets/accessibility-BCbmVAXx-CdqjAeCs.js                              1.09 kB │ gzip:   0.58 kB
+build/client/assets/accessibility-WfdVFTQC-C88_vVun.js                              1.15 kB │ gzip:   0.50 kB
+build/client/assets/accessibility-W6Mmdylb-CgUQeGdC.js                              1.18 kB │ gzip:   0.50 kB
+build/client/assets/accessibility-DgEQXtKu-B193hVSi.js                              1.19 kB │ gzip:   0.53 kB
+build/client/assets/accessibility-DF7cOy8e-WGbNgPqk.js                              1.20 kB │ gzip:   0.58 kB
+build/client/assets/accessibility-BNvQjWe3-CAykZJHH.js                              1.21 kB │ gzip:   0.59 kB
+build/client/assets/accessibility-CjmM2Xm3-ChQ8wQ1-.js                              1.22 kB │ gzip:   0.51 kB
+build/client/assets/accessibility-DFby1Pqa-VlgSLSY7.js                              1.24 kB │ gzip:   0.52 kB
+build/client/assets/accessibility-DQrDKEXq-BOGfHy8b.js                              1.25 kB │ gzip:   0.56 kB
+build/client/assets/accessibility-Dz-PtOqE-1No7l-Wo.js                              1.26 kB │ gzip:   0.54 kB
+build/client/assets/accessibility-DYMFDi-z-DSvjNQW-.js                              1.27 kB │ gzip:   0.57 kB
+build/client/assets/accessibility-D5GcsGLG-C0XzwtRs.js                              1.27 kB │ gzip:   0.56 kB
+build/client/assets/accessibility-Cyu1fvpk-YK8hgIxZ.js                              1.31 kB │ gzip:   0.55 kB
+build/client/assets/accessibility-Bbk7VAT_-X9uGgUnx.js                              1.48 kB │ gzip:   0.64 kB
+build/client/assets/accessibility-Dmls8bAw-DZ04LdE6.js                              1.71 kB │ gzip:   0.66 kB
+build/client/assets/accessibility-BH9ethwp-S0YdkFbu.js                              1.74 kB │ gzip:   0.68 kB
+build/client/assets/string.helper-BC9KldVQ.js                                       1.86 kB │ gzip:   0.83 kB
+build/client/assets/use-publish-BGqbPj3I.js                                         2.04 kB │ gzip:   0.88 kB
+build/client/assets/empty-state--QA87_hZ-DlTCIB9p.js                                5.97 kB │ gzip:   2.48 kB
+build/client/assets/empty-state-Bx1I4r32-BjPlVTRc.js                                5.98 kB │ gzip:   2.50 kB
+build/client/assets/empty-state-CSU-eNXa-C-hNs0Ha.js                                6.32 kB │ gzip:   2.21 kB
+build/client/assets/empty-state-2HXwXn3J-D3d5JCmA.js                                7.08 kB │ gzip:   2.28 kB
+build/client/assets/empty-state-C-hIr8ir-BY9Fv38l.js                                7.36 kB │ gzip:   2.51 kB
+build/client/assets/empty-state-zRY-HB-Z-DqqHLaMK.js                                7.44 kB │ gzip:   2.40 kB
+build/client/assets/empty-state-C_lwFNRg-BITZB_ID.js                                7.56 kB │ gzip:   2.70 kB
+build/client/assets/empty-state-D5qcQX_G-PD1_O8Jr.js                                7.59 kB │ gzip:   2.49 kB
+build/client/assets/empty-state-DwKYSi5P-ClRgDj3K.js                                7.61 kB │ gzip:   2.50 kB
+build/client/assets/empty-state-CrcBeIbI-BG5yAiOx.js                                7.76 kB │ gzip:   2.72 kB
+build/client/assets/empty-state-DuDTi8Pa-DmqY--yu.js                                7.80 kB │ gzip:   2.76 kB
+build/client/assets/empty-state-Dku1Pk_I-Cm1CgFff.js                                7.89 kB │ gzip:   2.57 kB
+build/client/assets/empty-state-B9peiBhq-DDbOwiFV.js                                7.93 kB │ gzip:   2.70 kB
+build/client/assets/empty-state-BbmJMue4-DPMLrXUJ.js                                8.01 kB │ gzip:   2.63 kB
+build/client/assets/empty-state-CX_bqipC-CnkVKRIA.js                                8.29 kB │ gzip:   2.65 kB
+build/client/assets/empty-state-BZXh-NJB-Sx5bXRqK.js                                8.85 kB │ gzip:   2.70 kB
+build/client/assets/empty-state-Bz380OY7-CSTAzo4p.js                                8.85 kB │ gzip:   2.79 kB
+build/client/assets/empty-state-CmGnpdzi-DC7LMc9_.js                               11.74 kB │ gzip:   3.23 kB
+build/client/assets/empty-state-DExnsw0Z-DK4Qemix.js                               12.10 kB │ gzip:   3.24 kB
+build/client/assets/root-B_6qsclv.js                                               12.80 kB │ gzip:   4.48 kB
+build/client/assets/user-avatar-BiaVsApj.js                                        13.17 kB │ gzip:   4.98 kB
+build/client/assets/layout-1Iia62DM.js                                             13.35 kB │ gzip:   4.58 kB
+build/client/assets/index-CX__1pBL.js                                              22.50 kB │ gzip:   7.92 kB
+build/client/assets/page-5uGFNPUO.js                                               24.76 kB │ gzip:   6.77 kB
+build/client/assets/debug-build-D4xv_5pJ.js                                        30.44 kB │ gzip:  10.60 kB
+build/client/assets/entry.client-aROR_R0j.js                                       56.43 kB │ gzip:  20.40 kB
+build/client/assets/core-CMX6jCKA-G0z6hCXs.js                                      64.36 kB │ gzip:  21.10 kB
+build/client/assets/translations-B_G1dQwd-BWZ7XWYp.js                              64.80 kB │ gzip:  20.95 kB
+build/client/assets/translations-CcNuvddF-gc9BRrrr.js                              66.53 kB │ gzip:  21.32 kB
+build/client/assets/translations-CesXN161-UE8oNtI6.js                              69.99 kB │ gzip:  20.86 kB
+build/client/assets/translations-DEDisMsY-BiAYekNh.js                              70.48 kB │ gzip:  20.93 kB
+build/client/assets/translations-DPDCnerQ-D1P7fkYd.js                              70.66 kB │ gzip:  20.98 kB
+build/client/assets/translations-BjNwpHLh-CClQjIjZ.js                              72.67 kB │ gzip:  20.80 kB
+build/client/assets/translations-DL6tY_OO-ClbX4xog.js                              72.72 kB │ gzip:  20.37 kB
+build/client/assets/translations-QmzuNDJK-9XVoYndT.js                              74.53 kB │ gzip:  20.71 kB
+build/client/assets/translations-EBMywXIF-BxF3drkb.js                              74.74 kB │ gzip:  21.22 kB
+build/client/assets/translations-B2TWFRVx-CoMJWz4O.js                              77.49 kB │ gzip:  21.55 kB
+build/client/assets/translations-DW_K5yIF-H83yOeRl.js                              77.55 kB │ gzip:  21.76 kB
+build/client/assets/translations-Pvu3yt-a-BeHzlnQ3.js                              78.19 kB │ gzip:  22.30 kB
+build/client/assets/translations-B1PCm7rE-BceRnQ21.js                              79.29 kB │ gzip:  21.99 kB
+build/client/assets/translations-DNozZaU2-D02l7MZn.js                              79.43 kB │ gzip:  21.33 kB
+build/client/assets/translations-UUNIktJQ-DK70rwZD.js                              82.30 kB │ gzip:  22.65 kB
+build/client/assets/translations-B62tteMh-Jw_TW5-m.js                              86.21 kB │ gzip:  21.69 kB
+build/client/assets/translations-CmNDbBAf-DzbaM4rN.js                              89.79 kB │ gzip:  22.67 kB
+build/client/assets/translations-BDoRpFv7-DblyYE4f.js                             101.46 kB │ gzip:  23.94 kB
+build/client/assets/translations-Bhb-zHF8-BkM2jD0Y.js                             105.79 kB │ gzip:  24.18 kB
+build/client/assets/index-Q9-YSdaX.js                                             109.85 kB │ gzip:  36.79 kB
+build/client/assets/chunk-UIGDSWPH-CSiInkwK.js                                    118.13 kB │ gzip:  39.92 kB
+build/client/assets/index-WGCKe97X.js                                             134.71 kB │ gzip:  43.26 kB
+build/client/assets/query-param-generator-DdMbRK0w.js                             374.72 kB │ gzip: 113.68 kB
+build/client/assets/index-BYCHKVbf.js                                             550.32 kB │ gzip: 173.03 kB
+build/client/assets/page-WWO2DE2D.js                                            1,914.63 kB │ gzip: 524.80 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 10.80s
+[1m[38;5;196m[MISSING_ENV_FILE] missing /root/plane-hybrid-deployment/space/.env file (/root/plane-hybrid-deployment/space/.env)[39m[22m
+[1m[38;5;196m[MISSING_ENV_FILE] https://github.com/dotenvx/dotenvx/issues/484[39m[22m
+[38;5;142m[dotenvx@1.51.1] injecting env (0)[39m
+[1m[38;5;196m[MISSING_ENV_FILE] missing /root/plane-hybrid-deployment/space/.env file (/root/plane-hybrid-deployment/space/.env)[39m[22m
+[1m[38;5;196m[MISSING_ENV_FILE] https://github.com/dotenvx/dotenvx/issues/484[39m[22m
+[38;5;142m[dotenvx@1.51.1] injecting env (0)[39m
+vite v7.1.11 building SSR bundle for production...
+transforming...
+"placements" is imported from external module "@popperjs/core" but never used in "../node_modules/.pnpm/@blueprintjs+popover2@1.14.11_@types+react@18.3.11_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@blueprintjs/popover2/lib/esm/popover2SharedProps.js" and "../node_modules/.pnpm/tippy.js@6.3.7/node_modules/tippy.js/dist/tippy.esm.js".
+✓ 3332 modules transformed.
+rendering chunks...
+build/server/assets/site-E2hmg23U.webmanifest                                       0.33 kB
+build/server/assets/favicon-16x16-B_Opgp1K.png                                      0.47 kB
+build/server/assets/google-logo-r0ky5Kfn.svg                                        0.74 kB
+build/server/assets/favicon-32x32-cfWXc3P9.png                                      0.76 kB
+build/server/assets/gitlab-logo-BL2xQyij.svg                                        1.06 kB
+build/server/assets/github-dark-DlyHSwTQ.svg                                        1.46 kB
+build/server/assets/gitea-logo-BAYfzmEl.svg                                         2.14 kB
+build/server/assets/user-logged-in-BukBPDLP.svg                                     2.32 kB
+build/server/assets/something-went-wrong-CL3KAzG8.svg                               2.61 kB
+build/server/assets/instance-failure-dark-DE7I22mw.svg                              4.11 kB
+build/server/assets/instance-failure-C1aRKNan.svg                                   4.11 kB
+build/server/assets/404-DWCFZzXK.svg                                                5.42 kB
+build/server/assets/background-pattern-dark-CmVIYUu1.svg                            6.19 kB
+build/server/assets/background-pattern-DUvEFmph.svg                                 6.23 kB
+build/server/assets/apple-touch-icon-BmADsVmV.png                                   6.29 kB
+build/server/assets/github-black-DmZ70PA_.png                                      14.03 kB
+build/server/assets/favicon-DJlV-mcI.ico                                           15.41 kB
+build/server/assets/inter-v13-latin-regular-BT1H-PT_.woff2                         21.56 kB
+build/server/assets/inter-v13-latin-200-BJ9n9uBU.woff2                             22.44 kB
+build/server/assets/inter-v13-latin-300-IcD-qYDc.woff2                             22.44 kB
+build/server/assets/inter-v13-latin-500-kWhwEdDH.woff2                             22.76 kB
+build/server/assets/inter-v13-latin-800-mdTeNKyI.woff2                             22.79 kB
+build/server/assets/inter-v13-latin-600-B2Ssfs8e.woff2                             22.82 kB
+build/server/assets/inter-v13-latin-700-C2zfFY7I.woff2                             22.90 kB
+build/server/.vite/manifest.json                                                   28.98 kB
+build/server/assets/material-symbols-rounded-v168-latin-regular-DuglM4Ng.woff2    282.66 kB
+build/server/assets/logo-spinner-light-DmBc4A-4.gif                               427.97 kB
+build/server/assets/logo-spinner-dark-Cc1AqekO.gif                                976.40 kB
+build/server/assets/server-build-BbJEVIxR.css                                       2.26 kB
+build/server/assets/globals-XTopdFNC.css                                           72.53 kB
+build/server/assets/editor-BJXop2Ep-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-p0a5vmrS-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-RKmm77Av-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-NFKGp0gG-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-yIqSq-5W-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-BuFA5f_e-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-CIAgCMO5-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-CGid2EJ6-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-CxcKeB-j-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-BIzBTq4Z-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-BDzA1Ojw-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-C3WspIm--DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-B-9PHzaF-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-mFn0qowv-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-BUhZo_Cu-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-Hezb2J3S-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-9zLZkE41-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-Ckcw_rVs-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-j_r67XNG-DiS7lhpe.js                                     0.07 kB
+build/server/assets/core-CMX6jCKA-Dzvclk38.js                                       1.00 kB
+build/server/index.js                                                               1.22 kB
+build/server/assets/accessibility-By0XUGmH-DrPs4PVG.js                              1.28 kB
+build/server/assets/accessibility-CbnOSAaA-DsODPKhs.js                              1.30 kB
+build/server/assets/accessibility-CBQcMygp-Csa0_vKR.js                              1.31 kB
+build/server/assets/accessibility-BCbmVAXx-Ce-NiSXP.js                              1.31 kB
+build/server/assets/accessibility-WfdVFTQC-CmYhuO6V.js                              1.37 kB
+build/server/assets/accessibility-W6Mmdylb-DCRA5uvC.js                              1.40 kB
+build/server/assets/accessibility-DgEQXtKu-CryUyAMB.js                              1.41 kB
+build/server/assets/accessibility-DF7cOy8e-95WLTC_n.js                              1.42 kB
+build/server/assets/accessibility-BNvQjWe3-BeWZN9N7.js                              1.43 kB
+build/server/assets/accessibility-CjmM2Xm3-D04Nnb_6.js                              1.44 kB
+build/server/assets/accessibility-DFby1Pqa-D_3ODi1x.js                              1.46 kB
+build/server/assets/accessibility-DQrDKEXq-BqYAsMJe.js                              1.47 kB
+build/server/assets/accessibility-Dz-PtOqE-CobSnTVd.js                              1.48 kB
+build/server/assets/accessibility-DYMFDi-z-CqKNcSyy.js                              1.49 kB
+build/server/assets/accessibility-D5GcsGLG-D5oOICVK.js                              1.49 kB
+build/server/assets/accessibility-Cyu1fvpk-Be6gGOk1.js                              1.53 kB
+build/server/assets/accessibility-Bbk7VAT_-0diisc_K.js                              1.70 kB
+build/server/assets/accessibility-Dmls8bAw-Dp4VH5bH.js                              1.93 kB
+build/server/assets/accessibility-BH9ethwp-DT11pUJt.js                              1.96 kB
+build/server/assets/empty-state--QA87_hZ-Bsqyilkb.js                                7.09 kB
+build/server/assets/empty-state-Bx1I4r32-B2oeCw5O.js                                7.10 kB
+build/server/assets/empty-state-CSU-eNXa-DZwq7lb_.js                                7.43 kB
+build/server/assets/empty-state-2HXwXn3J-4MnAp3Wz.js                                8.19 kB
+build/server/assets/empty-state-C-hIr8ir-bGDKs03p.js                                8.47 kB
+build/server/assets/empty-state-zRY-HB-Z-I_Pnuteh.js                                8.55 kB
+build/server/assets/empty-state-C_lwFNRg-Duczj023.js                                8.68 kB
+build/server/assets/empty-state-D5qcQX_G-C6E0Owds.js                                8.71 kB
+build/server/assets/empty-state-DwKYSi5P-CRCjuGm5.js                                8.72 kB
+build/server/assets/empty-state-CrcBeIbI-DvkYCGAJ.js                                8.87 kB
+build/server/assets/empty-state-DuDTi8Pa-CrurbED8.js                                8.91 kB
+build/server/assets/empty-state-Dku1Pk_I-LylsH0q6.js                                9.00 kB
+build/server/assets/empty-state-B9peiBhq-Cwa9Baxb.js                                9.04 kB
+build/server/assets/empty-state-BbmJMue4-Cv9uds5g.js                                9.13 kB
+build/server/assets/empty-state-CX_bqipC-CTLg7zyv.js                                9.41 kB
+build/server/assets/empty-state-BZXh-NJB-s8tE8Ksw.js                                9.96 kB
+build/server/assets/empty-state-Bz380OY7-C9E8G8k2.js                                9.97 kB
+build/server/assets/empty-state-CmGnpdzi-Cm2Abc4N.js                               12.85 kB
+build/server/assets/empty-state-DExnsw0Z-DiRoqy-s.js                               13.21 kB
+build/server/assets/translations-B_G1dQwd-D_hGrM0c.js                              82.53 kB
+build/server/assets/translations-CcNuvddF-BfnvZgPM.js                              84.48 kB
+build/server/assets/translations-CesXN161-BUk_dFxZ.js                              87.90 kB
+build/server/assets/translations-DEDisMsY-DV-LMH4o.js                              88.42 kB
+build/server/assets/translations-DPDCnerQ-DwYKdqq2.js                              88.57 kB
+build/server/assets/translations-DL6tY_OO-BfNtWFzw.js                              90.63 kB
+build/server/assets/translations-BjNwpHLh-CZVuxl3F.js                              91.18 kB
+build/server/assets/translations-QmzuNDJK-DsX5Npgi.js                              92.43 kB
+build/server/assets/translations-EBMywXIF-Bj2CbKZI.js                              92.49 kB
+build/server/assets/translations-B2TWFRVx-31QBqesE.js                              95.42 kB
+build/server/assets/translations-DW_K5yIF-Bn66EfAd.js                              95.46 kB
+build/server/assets/translations-Pvu3yt-a-Cv7fJv2G.js                              96.09 kB
+build/server/assets/translations-B1PCm7rE-qzDpq1Tm.js                              97.23 kB
+build/server/assets/translations-DNozZaU2-DUVIKzK-.js                              97.38 kB
+build/server/assets/translations-UUNIktJQ-BcVuD5aK.js                             100.24 kB
+build/server/assets/translations-B62tteMh-DxeK8mKR.js                             104.14 kB
+build/server/assets/translations-CmNDbBAf-B2AIkFZq.js                             107.72 kB
+build/server/assets/translations-BDoRpFv7-BnWke1t2.js                             119.37 kB
+build/server/assets/translations-Bhb-zHF8-BDGWG2by.js                             123.74 kB
+build/server/assets/server-build-DRQmB2Ub.js                                    5,371.35 kB
+
+✓ 29 assets cleaned from React Router server build.
+build/client/assets/globals-XTopdFNC.css
+build/client/assets/apple-touch-icon-BmADsVmV.png
+build/client/assets/favicon-16x16-B_Opgp1K.png
+build/client/assets/favicon-32x32-cfWXc3P9.png
+build/client/assets/favicon-DJlV-mcI.ico
+build/client/assets/site-E2hmg23U.webmanifest
+build/client/assets/logo-spinner-dark-Cc1AqekO.gif
+build/client/assets/logo-spinner-light-DmBc4A-4.gif
+build/client/assets/background-pattern-dark-CmVIYUu1.svg
+build/client/assets/background-pattern-DUvEFmph.svg
+build/client/assets/instance-failure-dark-DE7I22mw.svg
+build/client/assets/instance-failure-C1aRKNan.svg
+build/client/assets/user-logged-in-BukBPDLP.svg
+build/client/assets/gitea-logo-BAYfzmEl.svg
+build/client/assets/github-black-DmZ70PA_.png
+build/client/assets/github-dark-DlyHSwTQ.svg
+build/client/assets/gitlab-logo-BL2xQyij.svg
+build/client/assets/google-logo-r0ky5Kfn.svg
+build/client/assets/something-went-wrong-CL3KAzG8.svg
+build/client/assets/404-DWCFZzXK.svg
+build/client/assets/inter-v13-latin-200-BJ9n9uBU.woff2
+build/client/assets/inter-v13-latin-300-IcD-qYDc.woff2
+build/client/assets/inter-v13-latin-regular-BT1H-PT_.woff2
+build/client/assets/inter-v13-latin-500-kWhwEdDH.woff2
+build/client/assets/inter-v13-latin-600-B2Ssfs8e.woff2
+build/client/assets/inter-v13-latin-700-C2zfFY7I.woff2
+build/client/assets/inter-v13-latin-800-mdTeNKyI.woff2
+build/client/assets/material-symbols-rounded-v168-latin-regular-DuglM4Ng.woff2
+build/server/assets/server-build-BbJEVIxR.css
+✓ 1 asset moved from React Router server build to client assets.
+build/client/assets/server-build-BbJEVIxR.css
+
+✓ built in 4.66s

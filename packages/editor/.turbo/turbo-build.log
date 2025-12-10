@@ -1,0 +1,24 @@
+
+> @plane/editor@1.2.0 build /root/plane-hybrid-deployment/packages/editor
+> tsc && tsdown
+
+ℹ tsdown v0.16.0 powered by rolldown v1.0.0-beta.46
+ℹ Using tsdown config: /root/plane-hybrid-deployment/packages/editor/tsdown.config.ts
+ℹ entry: src/index.ts, src/lib.ts
+ℹ tsconfig: tsconfig.json
+ℹ Build start
+ℹ Cleaning 21 files
+ℹ dist/index.js                                       197.43 kB │ gzip: 44.31 kB
+ℹ dist/lib.js                                           2.45 kB │ gzip:  0.71 kB
+ℹ dist/document-collaborative-events-DhUvi1fB.js.map  415.83 kB │ gzip: 89.51 kB
+ℹ dist/index.js.map                                   414.03 kB │ gzip: 93.49 kB
+ℹ dist/document-collaborative-events-DhUvi1fB.js      198.99 kB │ gzip: 44.03 kB
+ℹ dist/yjs-utils-CitB7yXk.d.ts.map                     12.17 kB │ gzip:  4.59 kB
+ℹ dist/lib.js.map                                       4.48 kB │ gzip:  1.21 kB
+ℹ dist/index.d.ts.map                                   1.62 kB │ gzip:  0.75 kB
+ℹ dist/lib.d.ts.map                                     0.16 kB │ gzip:  0.15 kB
+ℹ dist/index.d.ts                                       8.57 kB │ gzip:  2.50 kB
+ℹ dist/lib.d.ts                                         2.37 kB │ gzip:  0.76 kB
+ℹ dist/yjs-utils-CitB7yXk.d.ts                         30.04 kB │ gzip:  7.71 kB
+ℹ 12 files, total: 1288.13 kB
+✔ Build complete in 2157ms

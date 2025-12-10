@@ -1,0 +1,1 @@
+import{r as e}from"./chunk-UIGDSWPH-DWOOOxqk.js";import{d as r}from"./store.provider-C9rYaGrA.js";const s=()=>{const t=e.useContext(r);if(t===void 0)throw new Error("useInstance must be used within StoreProvider");return t.instance};export{s as u};

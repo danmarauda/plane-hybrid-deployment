@@ -1,0 +1,16 @@
+
+> @plane/constants@1.2.0 build /root/plane-hybrid-deployment/packages/constants
+> tsdown
+
+ℹ tsdown v0.16.0 powered by rolldown v1.0.0-beta.46
+ℹ Using tsdown config: /root/plane-hybrid-deployment/packages/constants/tsdown.config.ts
+ℹ entry: src/index.ts
+ℹ tsconfig: tsconfig.json
+ℹ Build start
+ℹ Cleaning 4 files
+ℹ dist/index.mjs        108.63 kB │ gzip: 22.21 kB
+ℹ dist/index.mjs.map    164.82 kB │ gzip: 30.02 kB
+ℹ dist/index.d.mts.map   26.91 kB │ gzip:  9.46 kB
+ℹ dist/index.d.mts       60.44 kB │ gzip: 12.50 kB
+ℹ 4 files, total: 360.80 kB
+✔ Build complete in 794ms

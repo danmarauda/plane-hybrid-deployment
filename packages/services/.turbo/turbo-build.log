@@ -1,0 +1,16 @@
+
+> @plane/services@1.2.0 build /root/plane-hybrid-deployment/packages/services
+> tsdown
+
+ℹ tsdown v0.16.0 powered by rolldown v1.0.0-beta.46
+ℹ Using tsdown config: /root/plane-hybrid-deployment/packages/services/tsdown.config.ts
+ℹ entry: src/index.ts
+ℹ tsconfig: tsconfig.json
+ℹ Build start
+ℹ Cleaning 4 files
+ℹ dist/index.js         91.98 kB │ gzip: 10.66 kB
+ℹ dist/index.js.map    146.32 kB │ gzip: 17.15 kB
+ℹ dist/index.d.ts.map   19.82 kB │ gzip:  5.43 kB
+ℹ dist/index.d.ts       70.36 kB │ gzip:  9.06 kB
+ℹ 4 files, total: 328.47 kB
+✔ Build complete in 1098ms

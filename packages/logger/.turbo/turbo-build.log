@@ -1,0 +1,16 @@
+
+> @plane/logger@1.2.0 build /root/plane-hybrid-deployment/packages/logger
+> tsdown
+
+ℹ tsdown v0.16.0 powered by rolldown v1.0.0-beta.46
+ℹ Using tsdown config: /root/plane-hybrid-deployment/packages/logger/tsdown.config.ts
+ℹ entry: src/index.ts
+ℹ tsconfig: tsconfig.json
+ℹ Build start
+ℹ Cleaning 4 files
+ℹ dist/index.mjs        0.73 kB │ gzip: 0.39 kB
+ℹ dist/index.mjs.map    1.36 kB │ gzip: 0.62 kB
+ℹ dist/index.d.mts.map  0.18 kB │ gzip: 0.16 kB
+ℹ dist/index.d.mts      0.42 kB │ gzip: 0.22 kB
+ℹ 4 files, total: 2.69 kB
+✔ Build complete in 1417ms

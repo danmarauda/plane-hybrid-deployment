@@ -1,0 +1,804 @@
+
+> web@1.2.0 build /root/plane-hybrid-deployment/web
+> react-router build
+
+[38;5;142m[dotenvx@1.51.1] injecting env (8) from /root/plane-hybrid-deployment/web/.env[39m
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/web/.env[39m
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/web/.env[39m
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/web/.env[39m
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/web/.env[39m
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/web/.env[39m
+vite v7.1.11 building for production...
+transforming...
+../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.3_@opentelemetry+api@1.9.0_babel-plugin_42dd1232aaaf200512ba4cae9a0c4730/node_modules/next-themes/dist/index.module.js (1:1576): A comment
+
+"/*#__PURE__*/"
+
+in "../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.3_@opentelemetry+api@1.9.0_babel-plugin_42dd1232aaaf200512ba4cae9a0c4730/node_modules/next-themes/dist/index.module.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.3_@opentelemetry+api@1.9.0_babel-plugin_42dd1232aaaf200512ba4cae9a0c4730/node_modules/next-themes/dist/index.module.js (1:2992): A comment
+
+"/*#__PURE__*/"
+
+in "../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.3_@opentelemetry+api@1.9.0_babel-plugin_42dd1232aaaf200512ba4cae9a0c4730/node_modules/next-themes/dist/index.module.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+✓ 10489 modules transformed.
+rendering chunks...
+computing gzip size...
+build/client/assets/favicon-16x16-B_Opgp1K.png                                      0.47 kB
+build/client/assets/empty_label-BBcxK5kA.svg                                        0.49 kB │ gzip:   0.28 kB
+build/client/assets/google-logo-r0ky5Kfn.svg                                        0.74 kB │ gzip:   0.43 kB
+build/client/assets/favicon-32x32-cfWXc3P9.png                                      0.76 kB
+build/client/assets/priority-dark-C68dnEMz.webp                                     1.05 kB
+build/client/assets/gitlab-logo-BL2xQyij.svg                                        1.06 kB │ gzip:   0.47 kB
+build/client/assets/progress-dark-CbdQFQls.webp                                     1.09 kB
+build/client/assets/priority-light-e2bFi4nm.webp                                    1.10 kB
+build/client/assets/label-dark-DWRrYoNR.webp                                        1.14 kB
+build/client/assets/chart-light-CmRIfxuB.webp                                       1.15 kB
+build/client/assets/assignee-light-CrlWz184.webp                                    1.16 kB
+build/client/assets/progress-light-B_092DlV.webp                                    1.17 kB
+build/client/assets/chart-dark-DOGbIYyX.webp                                        1.18 kB
+build/client/assets/label-light-DTeD9Hyj.webp                                       1.19 kB
+build/client/assets/assignee-dark-GiRfYgU6.webp                                     1.19 kB
+build/client/assets/empty_members-B48oMgcS.svg                                      1.34 kB │ gzip:   0.58 kB
+build/client/assets/github-dark-DlyHSwTQ.svg                                        1.46 kB │ gzip:   0.67 kB
+build/client/assets/search-dark-COdu9jyf.webp                                       2.33 kB
+build/client/assets/search-light-DGwdTDm2.webp                                      2.64 kB
+build/client/assets/icon-180x180-ArenqHjH.png                                       2.71 kB
+build/client/assets/issues-light-BIWRd60x.webp                                      2.92 kB
+build/client/assets/issues-dark-BFg8-mvo.webp                                       3.12 kB
+build/client/assets/all-filters-cM3ayl-R.svg                                        3.25 kB │ gzip:   0.94 kB
+build/client/assets/name-filter-8JdqNXSU.svg                                        3.34 kB │ gzip:   0.99 kB
+build/client/assets/all-filters-CZ8dpHF_.svg                                        4.33 kB │ gzip:   1.12 kB
+build/client/assets/name-filter-Ad9b4_qB.svg                                        4.38 kB │ gzip:   1.22 kB
+build/client/assets/view-DigBccAm.svg                                               5.21 kB │ gzip:   1.96 kB
+build/client/assets/404-DWCFZzXK.svg                                                5.42 kB │ gzip:   1.57 kB
+build/client/assets/cta-l-1-dark-DfFftJH9.webp                                      5.63 kB
+build/client/assets/issue-_P4hOm-h.svg                                              5.89 kB │ gzip:   2.07 kB
+build/client/assets/default-icon-DCLwKoz2.png                                       6.13 kB
+build/client/assets/background-pattern-dark-CmVIYUu1.svg                            6.19 kB │ gzip:   0.89 kB
+build/client/assets/background-pattern-DUvEFmph.svg                                 6.23 kB │ gzip:   0.88 kB
+build/client/assets/html-icon-B8Zw3XA_.png                                          6.67 kB
+build/client/assets/excel-icon-XoT7M_Jk.png                                         6.71 kB
+build/client/assets/zip-icon-Bo1RU1i-.png                                           7.22 kB
+build/client/assets/cycle-BOcLETEn.svg                                              8.40 kB │ gzip:   3.29 kB
+build/client/assets/icon-512x512-CyS1mcXS.png                                       8.70 kB
+build/client/assets/csv-icon-DF5Z4ezZ.png                                           9.68 kB
+build/client/assets/audio-icon-CTamvKZ-.png                                        10.37 kB
+build/client/assets/img-icon-CgV_icRC.png                                          10.45 kB
+build/client/assets/rar-icon-DUmOzNwT.png                                          10.47 kB
+build/client/assets/web-hook-D8eWJ8ey.svg                                          10.69 kB │ gzip:   3.30 kB
+build/client/assets/js-icon-lKS6TT2t.png                                           10.99 kB
+build/client/assets/txt-icon-B37rKrBk.png                                          11.14 kB
+build/client/assets/video-icon-SQHbulO7.png                                        11.67 kB
+build/client/assets/jpg-icon-Dm4NnUNA.png                                          12.09 kB
+build/client/assets/png-icon-BXhbUVbw.png                                          12.49 kB
+build/client/assets/css-icon-CCUROALf.png                                          12.70 kB
+build/client/assets/svg-icon-Y9fl-1JZ.png                                          12.90 kB
+build/client/assets/pdf-icon-Bikr7Dsa.png                                          13.04 kB
+build/client/assets/github-black-DmZ70PA_.png                                      14.03 kB
+build/client/assets/module-Bs_xs7Vo.svg                                            14.70 kB │ gzip:   5.77 kB
+build/client/assets/doc-icon-DRV_ANkm.png                                          15.18 kB
+build/client/assets/favicon-DJlV-mcI.ico                                           15.41 kB
+build/client/assets/figma-icon-VzEOzwQQ.png                                        15.61 kB
+build/client/assets/github-white-BwRnG8jn.png                                      16.56 kB
+build/client/assets/outline-dark-ADkmZ4UD.webp                                     17.99 kB
+build/client/assets/outline-light-BxGGy3_A.webp                                    18.01 kB
+build/client/assets/image_6-DYKe1XQu.jpg                                           19.39 kB
+build/client/assets/assets-dark-5YjnlpDT.webp                                      20.67 kB
+build/client/assets/assets-light-C8O9_fyp.webp                                     20.95 kB
+build/client/assets/inter-v13-latin-regular-BT1H-PT_.woff2                         21.56 kB
+build/client/assets/inter-v13-latin-200-BJ9n9uBU.woff2                             22.44 kB
+build/client/assets/inter-v13-latin-300-IcD-qYDc.woff2                             22.44 kB
+build/client/assets/invitation-BEGxAfxj.svg                                        22.66 kB │ gzip:   6.91 kB
+build/client/assets/inter-v13-latin-500-kWhwEdDH.woff2                             22.76 kB
+build/client/assets/inter-v13-latin-800-mdTeNKyI.woff2                             22.79 kB
+build/client/assets/inter-v13-latin-600-B2Ssfs8e.woff2                             22.82 kB
+build/client/assets/inter-v13-latin-700-C2zfFY7I.woff2                             22.90 kB
+build/client/assets/image_21-c7xsluba.jpg                                          22.94 kB
+build/client/assets/unauthorized-C8vOPqGE.svg                                      23.46 kB │ gzip:   7.47 kB
+build/client/assets/cta-l-1-light-yW_UnzhS.webp                                    28.72 kB
+build/client/assets/image_12-Bt4XfBD3.jpg                                          31.28 kB
+build/client/assets/maintenance-mode-light-Dqp39OMJ.svg                            31.93 kB │ gzip:   9.94 kB
+build/client/assets/maintenance-mode-dark-DAfHd5vC.svg                             32.02 kB │ gzip:   9.95 kB
+build/client/assets/project-not-authorized-ovAWpO6z.svg                            34.24 kB │ gzip:  13.05 kB
+build/client/assets/widgets-dark-DFt3ZYTd.webp                                     34.69 kB
+build/client/assets/widgets-light-DpOo900c.webp                                    34.71 kB
+build/client/assets/workspace-not-authorized-CJ0YsYpX.svg                          36.96 kB │ gzip:  14.17 kB
+build/client/assets/image_23-3daIXVWa.jpg                                          37.10 kB
+build/client/assets/scribble-white-BUZ6Mev7.svg                                    39.67 kB │ gzip:  15.08 kB
+build/client/assets/scribble-black-CTNTXY5m.svg                                    39.69 kB │ gzip:  15.19 kB
+build/client/assets/image_13-2tKqdk9L.jpg                                          45.42 kB
+build/client/assets/plane-takeoff-BnGS5y5s.png                                     47.82 kB
+build/client/assets/views-dark-B2o-OLZi.webp                                       55.06 kB
+build/client/assets/views-light-2SyZy5_1.webp                                      55.70 kB
+build/client/assets/image_17-fngcXhhl.jpg                                          57.39 kB
+build/client/assets/image_28-C6Wkd2EQ.jpg                                          59.22 kB
+build/client/assets/cta-r-1-dark-BPFgrvDw.webp                                     59.46 kB
+build/client/assets/modules-dark-Bs9zHyrm.webp                                     64.29 kB
+build/client/assets/cta-r-1-light-CEOos_Hz.webp                                    64.32 kB
+build/client/assets/activity-dark-CrTcqc82.webp                                    65.73 kB
+build/client/assets/activity-light-UpKTZacl.webp                                   66.54 kB
+build/client/assets/cycles-light-D7BOyLeS.webp                                     67.31 kB
+build/client/assets/modules-light-BcusJU7z.webp                                    67.55 kB
+build/client/assets/stickies-search-dark-kYw_qUF6.webp                             69.82 kB
+build/client/assets/active-dark-CPRUckpm.webp                                      70.16 kB
+build/client/assets/active-light-CG6vuz-R.webp                                     70.40 kB
+build/client/assets/stickies-search-light-DumO42X3.webp                            70.49 kB
+build/client/assets/og-image-DL-1GVBU.png                                          71.43 kB
+build/client/assets/image_7-ID2wQUdP.jpg                                           71.73 kB
+build/client/assets/cycles-dark-DwlqnDFx.webp                                      72.32 kB
+build/client/assets/image_8-DWH0LRz9.jpg                                           72.48 kB
+build/client/assets/pages-light-yTb_RZKg.webp                                      74.94 kB
+build/client/assets/image_3-tJsmKOeq.jpg                                           76.29 kB
+build/client/assets/image_10-DgxArbnE.jpg                                          77.70 kB
+build/client/assets/intake-dark-1GQ1y4Uo.webp                                      83.51 kB
+build/client/assets/pages-dark-DyGOgXct.webp                                       83.86 kB
+build/client/assets/image_15-BQTqAD9N.jpg                                          84.06 kB
+build/client/assets/image_27-m4Hk3VFG.jpg                                          86.27 kB
+build/client/assets/intake-light-CaWFdYOX.webp                                     87.12 kB
+build/client/assets/image_25-DCnSCXip.jpg                                          90.95 kB
+build/client/assets/image_24-C0ZJ8wGE.jpg                                          98.98 kB
+build/client/assets/user-NRT4fUDj.png                                              99.27 kB
+build/client/assets/image_18-kCAZcZ9O.jpg                                         100.02 kB
+build/client/assets/image_4-BIaW7dFO.jpg                                          101.52 kB
+build/client/assets/stickies-dark-B-BwEG7q.webp                                   120.54 kB
+build/client/assets/stickies-light-BWmpY4nc.webp                                  122.01 kB
+build/client/assets/image_19-BNDOXf3L.jpg                                         126.25 kB
+build/client/assets/views-dtFrOX88.webp                                           134.92 kB
+build/client/assets/image_2-Cbu4qct1.jpg                                          150.64 kB
+build/client/assets/image_22-DPrjCdTt.jpg                                         151.53 kB
+build/client/assets/cycles-COzcvQFr.webp                                          154.20 kB
+build/client/assets/image_26-C3h6Us29.jpg                                         157.02 kB
+build/client/assets/image_11-DJCGEHgn.jpg                                         163.45 kB
+build/client/assets/modules-CJrvixrT.webp                                         163.95 kB
+build/client/assets/image_16-CIImVKJN.jpg                                         165.31 kB
+build/client/assets/image_5-BMCrXMZF.jpg                                          170.46 kB
+build/client/assets/image_14-BGta73kB.jpg                                         186.91 kB
+build/client/assets/workspace-creation-disabled-COW2Nsd3.png                      191.45 kB
+build/client/assets/workspace-not-available-CAI6ornV.png                          192.99 kB
+build/client/assets/issues-CL1SAQbS.webp                                          202.20 kB
+build/client/assets/cta-r-2-dark-CayXl429.webp                                    207.31 kB
+build/client/assets/image_9-B2leaWem.jpg                                          221.58 kB
+build/client/assets/image_29-cesF6ww3.jpg                                         224.21 kB
+build/client/assets/pages-CYdyIhnF.webp                                           226.95 kB
+build/client/assets/no-projects-light-C2xLMww0.png                                261.33 kB
+build/client/assets/image_1-8ncaj2f5.jpg                                          274.08 kB
+build/client/assets/material-symbols-rounded-v168-latin-regular-DuglM4Ng.woff2    282.66 kB
+build/client/assets/no-projects-dark-HYUMxCf0.png                                 299.45 kB
+build/client/assets/regular-BpskOkD5.ttf                                          342.68 kB
+build/client/assets/thin-BQGyXcpw.ttf                                             343.09 kB
+build/client/assets/medium-BtfNrkJj.ttf                                           343.20 kB
+build/client/assets/ultralight-DE8yOi_r.ttf                                       343.53 kB
+build/client/assets/light-DbzEu6wT.ttf                                            343.70 kB
+build/client/assets/semibold-C9_sHzqi.ttf                                         343.83 kB
+build/client/assets/bold-Du8giq-C.ttf                                             344.15 kB
+build/client/assets/heavy-lPV88BO8.ttf                                            344.82 kB
+build/client/assets/ultrabold-LoA67B-f.ttf                                        345.01 kB
+build/client/assets/image_20-CBIxs7Xv.jpg                                         388.46 kB
+build/client/assets/cta-r-2-light-B-31RqhG.webp                                   392.12 kB
+build/client/assets/logo-spinner-light-DmBc4A-4.gif                               427.97 kB
+build/client/.vite/manifest.json                                                  442.98 kB │ gzip:  38.99 kB
+build/client/assets/logo-spinner-dark-Cc1AqekO.gif                                976.40 kB
+build/client/assets/root-BbJEVIxR.css                                               2.26 kB │ gzip:   0.65 kB
+build/client/assets/layout-Dg4YCVOr.css                                             6.94 kB │ gzip:   1.64 kB
+build/client/assets/globals-D-XIz7ot.css                                          148.73 kB │ gzip:  25.47 kB
+build/client/assets/project-settings-0idsfnCC.js                                    0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-BJXop2Ep-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-p0a5vmrS-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-RKmm77Av-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-NFKGp0gG-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-yIqSq-5W-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-BuFA5f_e-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-CIAgCMO5-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-CGid2EJ6-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-CxcKeB-j-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-BIzBTq4Z-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-BDzA1Ojw-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-C3WspIm--CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-B-9PHzaF-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-mFn0qowv-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-BUhZo_Cu-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-Hezb2J3S-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-9zLZkE41-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-Ckcw_rVs-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/editor-j_r67XNG-CIEyP2s7.js                                     0.03 kB │ gzip:   0.05 kB
+build/client/assets/github-black-KPxnk2sV.js                                        0.06 kB │ gzip:   0.08 kB
+build/client/assets/use-app-router-DTRbvm-f.js                                      0.08 kB │ gzip:   0.09 kB
+build/client/assets/issues-light-CDQ6zeIS.js                                        0.11 kB │ gzip:   0.10 kB
+build/client/assets/chat-support-CoLOF3Yt.js                                        0.11 kB │ gzip:   0.12 kB
+build/client/assets/instance.helper-B10CtFiv.js                                     0.12 kB │ gzip:   0.13 kB
+build/client/assets/utils-ClO0tBAS.js                                               0.14 kB │ gzip:   0.13 kB
+build/client/assets/startOfMonth-CkJ0a8lD.js                                        0.14 kB │ gzip:   0.14 kB
+build/client/assets/sign-in-msw6U-6O.js                                             0.15 kB │ gzip:   0.16 kB
+build/client/assets/signin-B1jjJTgE.js                                              0.15 kB │ gzip:   0.16 kB
+build/client/assets/login-Dt0cHN4s.js                                               0.15 kB │ gzip:   0.16 kB
+build/client/assets/helper-RwARPI5k.js                                              0.15 kB │ gzip:   0.13 kB
+build/client/assets/accounts-signup-DWoMj04r.js                                     0.16 kB │ gzip:   0.16 kB
+build/client/assets/register-fHRWocrA.js                                            0.16 kB │ gzip:   0.16 kB
+build/client/assets/client-SsFhlOfV.js                                              0.18 kB │ gzip:   0.15 kB
+build/client/assets/use-debounce-bApvnpeI.js                                        0.20 kB │ gzip:   0.17 kB
+build/client/assets/layout-CMBPMLG1.js                                              0.21 kB │ gzip:   0.19 kB
+build/client/assets/layout-Db7aYZr8.js                                              0.21 kB │ gzip:   0.19 kB
+build/client/assets/layout-BKLSejGe.js                                              0.21 kB │ gzip:   0.19 kB
+build/client/assets/analytics-2bWvHIut.js                                           0.21 kB │ gzip:   0.20 kB
+build/client/assets/layout-sL3rxcWI.js                                              0.22 kB │ gzip:   0.20 kB
+build/client/assets/layout-CGyNc83S.js                                              0.22 kB │ gzip:   0.20 kB
+build/client/assets/layout-CAJB6iwb.js                                              0.22 kB │ gzip:   0.20 kB
+build/client/assets/layout-D0O8N7Kh.js                                              0.22 kB │ gzip:   0.20 kB
+build/client/assets/api-tokens-CnVPcs-w.js                                          0.22 kB │ gzip:   0.20 kB
+build/client/assets/page-title-B_g36-QJ.js                                          0.22 kB │ gzip:   0.21 kB
+build/client/assets/use-timer-Ctvt6j-1.js                                           0.23 kB │ gzip:   0.19 kB
+build/client/assets/use-keypress-By3bBGII.js                                        0.23 kB │ gzip:   0.19 kB
+build/client/assets/inbox-ZfINry6K.js                                               0.23 kB │ gzip:   0.21 kB
+build/client/assets/use-current-time-o-eUyYN6.js                                    0.23 kB │ gzip:   0.19 kB
+build/client/assets/user-user-CJK2Nm5O.js                                           0.24 kB │ gzip:   0.21 kB
+build/client/assets/use-label-CEzPtPMV.js                                           0.24 kB │ gzip:   0.21 kB
+build/client/assets/use-member-DeSjY_v-.js                                          0.24 kB │ gzip:   0.21 kB
+build/client/assets/use-favorite-DxaJXoCr.js                                        0.24 kB │ gzip:   0.21 kB
+build/client/assets/use-app-theme-Y4VT-qdY.js                                       0.25 kB │ gzip:   0.21 kB
+build/client/assets/use-instance-Df6Glyr3.js                                        0.25 kB │ gzip:   0.21 kB
+build/client/assets/use-workspace-DQEZ7sGO.js                                       0.25 kB │ gzip:   0.21 kB
+build/client/assets/use-project-state-C5BarzDV.js                                   0.25 kB │ gzip:   0.21 kB
+build/client/assets/layout-DGsbqFsW.js                                              0.25 kB │ gzip:   0.23 kB
+build/client/assets/use-project-view-BvC8-WlQ.js                                    0.25 kB │ gzip:   0.21 kB
+build/client/assets/use-cycle-filter-Dq49mPBr.js                                    0.25 kB │ gzip:   0.21 kB
+build/client/assets/use-project-inbox-B_wNJD_K.js                                   0.26 kB │ gzip:   0.21 kB
+build/client/assets/use-work-item-filters-CisRbke1.js                               0.26 kB │ gzip:   0.21 kB
+build/client/assets/use-project-C_vDvFd2.js                                         0.26 kB │ gzip:   0.21 kB
+build/client/assets/use-project-estimate-DeiuAaS3.js                                0.26 kB │ gzip:   0.22 kB
+build/client/assets/link-CgUsmAtx.js                                                0.26 kB │ gzip:   0.21 kB
+build/client/assets/user-user-profile-pYCNjX27.js                                   0.26 kB │ gzip:   0.22 kB
+build/client/assets/project-settings-CXA-xRz3.js                                    0.26 kB │ gzip:   0.23 kB
+build/client/assets/use-platform-os-Cvd61jvu.js                                     0.26 kB │ gzip:   0.20 kB
+build/client/assets/use-command-palette-DiOQPS7q.js                                 0.26 kB │ gzip:   0.22 kB
+build/client/assets/user-user-settings-B3hvcNzl.js                                  0.26 kB │ gzip:   0.22 kB
+build/client/assets/user-permissions-DHgSsiHC.js                                    0.26 kB │ gzip:   0.22 kB
+build/client/assets/use-project-filter-a8zH1eBX.js                                  0.27 kB │ gzip:   0.22 kB
+build/client/assets/typeof-QjJsDpFa.js                                              0.27 kB │ gzip:   0.17 kB
+build/client/assets/use-workspace-notifications-CfOa1L85.js                         0.28 kB │ gzip:   0.22 kB
+build/client/assets/index-5v-mjDF1.js                                               0.28 kB │ gzip:   0.23 kB
+build/client/assets/use-estimate-CshlxPqu.js                                        0.28 kB │ gzip:   0.23 kB
+build/client/assets/use-intersection-observer-C-ZVrvrx.js                           0.28 kB │ gzip:   0.23 kB
+build/client/assets/use-dropdown-key-down-BFtxuZse.js                               0.30 kB │ gzip:   0.24 kB
+build/client/assets/list-root-SMZ-MsXH.js                                           0.32 kB │ gzip:   0.25 kB
+build/client/assets/use-window-size-BKOFGRYt.js                                     0.32 kB │ gzip:   0.21 kB
+build/client/assets/common-DLGAAAW0.js                                              0.32 kB │ gzip:   0.23 kB
+build/client/assets/content-wrapper-WcoFynVv.js                                     0.32 kB │ gzip:   0.22 kB
+build/client/assets/plus-DCnCo4tj.js                                                0.32 kB │ gzip:   0.26 kB
+build/client/assets/layout-B29tTs4W.js                                              0.33 kB │ gzip:   0.26 kB
+build/client/assets/move-left-B5nvKvRu.js                                           0.34 kB │ gzip:   0.27 kB
+build/client/assets/move-right-CdXNCcB0.js                                          0.34 kB │ gzip:   0.27 kB
+build/client/assets/use-issue-detail-ChqffkmI.js                                    0.34 kB │ gzip:   0.26 kB
+build/client/assets/user-round-DFD1ttPQ.js                                          0.36 kB │ gzip:   0.29 kB
+build/client/assets/count-chip-BZvXsMUZ.js                                          0.36 kB │ gzip:   0.27 kB
+build/client/assets/helper-CmYjNUif.js                                              0.36 kB │ gzip:   0.26 kB
+build/client/assets/panel-left-L0RQevFU.js                                          0.36 kB │ gzip:   0.28 kB
+build/client/assets/panel-right-DFCLLVxb.js                                         0.36 kB │ gzip:   0.29 kB
+build/client/assets/project-network-icon-Ba37bK5A.js                                0.37 kB │ gzip:   0.27 kB
+build/client/assets/list-filter-BNktruPb.js                                         0.37 kB │ gzip:   0.28 kB
+build/client/assets/use-page-store-Ddm9WsD3.js                                      0.37 kB │ gzip:   0.28 kB
+build/client/assets/use-page-Bgf0WVFy.js                                            0.37 kB │ gzip:   0.28 kB
+build/client/assets/clsx-B-dksMZM.js                                                0.37 kB │ gzip:   0.24 kB
+build/client/assets/use-module-6wMnFscW.js                                          0.37 kB │ gzip:   0.23 kB
+build/client/assets/arrow-up-to-line-Bi8jepSd.js                                    0.38 kB │ gzip:   0.28 kB
+build/client/assets/profile-setting-content-header-BObELHjR.js                      0.38 kB │ gzip:   0.25 kB
+build/client/assets/circle-x-CuL2iaof.js                                            0.38 kB │ gzip:   0.29 kB
+build/client/assets/lock-CoUH_qbo.js                                                0.38 kB │ gzip:   0.30 kB
+build/client/assets/circle-plus-T7UQ5n82.js                                         0.38 kB │ gzip:   0.28 kB
+build/client/assets/credit-card-ezyq6KFY.js                                         0.38 kB │ gzip:   0.30 kB
+build/client/assets/ai.service-BdKd3S1Z.js                                          0.39 kB │ gzip:   0.25 kB
+build/client/assets/unsupportedIterableToArray-Ba7u8soi.js                          0.40 kB │ gzip:   0.30 kB
+build/client/assets/layout-V_GKH6ZM.js                                              0.40 kB │ gzip:   0.29 kB
+build/client/assets/layout-Bb9eLr6B.js                                              0.40 kB │ gzip:   0.28 kB
+build/client/assets/history-DEPaxSCc.js                                             0.41 kB │ gzip:   0.30 kB
+build/client/assets/copy-B3Qyem24.js                                                0.41 kB │ gzip:   0.32 kB
+build/client/assets/circle-user-round-D6seXhw-.js                                   0.41 kB │ gzip:   0.30 kB
+build/client/assets/logo-spinner-K1z-zWte.js                                        0.41 kB │ gzip:   0.31 kB
+build/client/assets/trash-y90K0qc5.js                                               0.42 kB │ gzip:   0.31 kB
+build/client/assets/menu-DVN73jcX.js                                                0.42 kB │ gzip:   0.29 kB
+build/client/assets/type-D3AcwD6g.js                                                0.42 kB │ gzip:   0.30 kB
+build/client/assets/settings-2-D0S_mlJF.js                                          0.43 kB │ gzip:   0.30 kB
+build/client/assets/calendar-CPbBjuz1.js                                            0.43 kB │ gzip:   0.31 kB
+build/client/assets/content-wrapper-BfrXDLMv.js                                     0.44 kB │ gzip:   0.31 kB
+build/client/assets/pencil-Bn8ZqoHK.js                                              0.45 kB │ gzip:   0.33 kB
+build/client/assets/upgrade-badge-C0HIStDQ.js                                       0.45 kB │ gzip:   0.32 kB
+build/client/assets/arrow-up-wide-narrow-B3zhDlQW.js                                0.46 kB │ gzip:   0.31 kB
+build/client/assets/arrow-down-wide-narrow-DOpuJ5Ib.js                              0.46 kB │ gzip:   0.31 kB
+build/client/assets/paperclip-CyhTZj84.js                                           0.47 kB │ gzip:   0.33 kB
+build/client/assets/users-BSTU32eb.js                                               0.48 kB │ gzip:   0.33 kB
+build/client/assets/layout-icon-BsiUhhN_.js                                         0.48 kB │ gzip:   0.31 kB
+build/client/assets/user-plus-DjEKeklC.js                                           0.49 kB │ gzip:   0.34 kB
+build/client/assets/sidebar-navigation-CcMjdnHo.js                                  0.49 kB │ gzip:   0.32 kB
+build/client/assets/defineProperty-DbXIQDXj.js                                      0.49 kB │ gzip:   0.33 kB
+build/client/assets/refresh-cw-B1HDGTjs.js                                          0.50 kB │ gzip:   0.33 kB
+build/client/assets/refresh-ccw-A6zBB-ra.js                                         0.50 kB │ gzip:   0.33 kB
+build/client/assets/archive-restore-CZdGWiYk.js                                     0.52 kB │ gzip:   0.35 kB
+build/client/assets/activity-0BtQgOVN.js                                            0.52 kB │ gzip:   0.32 kB
+build/client/assets/sidebar-toggle-button-BdKFCiXM.js                               0.52 kB │ gzip:   0.35 kB
+build/client/assets/navigation-i7GcXZ1u.js                                          0.53 kB │ gzip:   0.31 kB
+build/client/assets/share-2-CjDO_RsL.js                                             0.53 kB │ gzip:   0.34 kB
+build/client/assets/trash-2-BkH5h1v-.js                                             0.53 kB │ gzip:   0.36 kB
+build/client/assets/grip-vertical-Psv8Pobo.js                                       0.55 kB │ gzip:   0.31 kB
+build/client/assets/earth-xHz6hinV.js                                               0.56 kB │ gzip:   0.38 kB
+build/client/assets/header-B-bgR3HE.js                                              0.57 kB │ gzip:   0.30 kB
+build/client/assets/loader-BhMgj4tw.js                                              0.58 kB │ gzip:   0.35 kB
+build/client/assets/eye-off-DXcI2I0b.js                                             0.60 kB │ gzip:   0.38 kB
+build/client/assets/rocket-CSnZ914s.js                                              0.63 kB │ gzip:   0.42 kB
+build/client/assets/logo-CU2IYTmu.js                                                0.64 kB │ gzip:   0.44 kB
+build/client/assets/switcher-label-DuzSFv2c.js                                      0.71 kB │ gzip:   0.45 kB
+build/client/assets/timezone-select-BGhNlZ-d.js                                     0.71 kB │ gzip:   0.43 kB
+build/client/assets/use-issue-peek-overview-redirection-CntGizRR.js                 0.72 kB │ gzip:   0.45 kB
+build/client/assets/circle-dashed-BtSHsd7l.js                                       0.74 kB │ gzip:   0.40 kB
+build/client/assets/layout-7GW1R505.js                                              0.75 kB │ gzip:   0.48 kB
+build/client/assets/heading-ba1-d09G.js                                             0.75 kB │ gzip:   0.45 kB
+build/client/assets/sliders-horizontal-CQrfT4sV.js                                  0.76 kB │ gzip:   0.37 kB
+build/client/assets/use-reload-confirmation-Dc5RaYC0.js                             0.76 kB │ gzip:   0.45 kB
+build/client/assets/use-local-storage-hoZStTJK.js                                   0.78 kB │ gzip:   0.39 kB
+build/client/assets/simple-empty-state-root-CmA0SDHP.js                             0.78 kB │ gzip:   0.45 kB
+build/client/assets/discount-info-Bab5NxQm.js                                       0.79 kB │ gzip:   0.51 kB
+build/client/assets/view-list-loader-Cd2EGZyV.js                                    0.80 kB │ gzip:   0.35 kB
+build/client/assets/lock-keyhole-CaD0kAP9.js                                        0.81 kB │ gzip:   0.38 kB
+build/client/assets/bell-BHTzpnF3.js                                                0.82 kB │ gzip:   0.43 kB
+build/client/assets/empty-state-DvH2N3oU.js                                         0.82 kB │ gzip:   0.47 kB
+build/client/assets/use-timeline-chart-DtQLH-1r.js                                  0.84 kB │ gzip:   0.42 kB
+build/client/assets/component-_gHHQmRq.js                                           0.86 kB │ gzip:   0.37 kB
+build/client/assets/use-workspace-issue-properties-B2tvQsds.js                      0.87 kB │ gzip:   0.38 kB
+build/client/assets/image-CmUoU6iE.js                                               0.87 kB │ gzip:   0.44 kB
+build/client/assets/star-CoWKUL9H.js                                                0.89 kB │ gzip:   0.44 kB
+build/client/assets/not-authorized-view-D1mmvVv2.js                                 0.89 kB │ gzip:   0.55 kB
+build/client/assets/settings-BYEisCT7.js                                            0.90 kB │ gzip:   0.45 kB
+build/client/assets/shrink-C6d7VCKq.js                                              0.90 kB │ gzip:   0.43 kB
+build/client/assets/key-round-CGHXYBCy.js                                           0.91 kB │ gzip:   0.45 kB
+build/client/assets/card-DKs_swY2-yA1D5UGr.js                                       0.93 kB │ gzip:   0.57 kB
+build/client/assets/octagon-alert-COHW1xn-.js                                       0.95 kB │ gzip:   0.43 kB
+build/client/assets/app-header-fhZSNX1g.js                                          0.97 kB │ gzip:   0.56 kB
+build/client/assets/auth-banner-D_N9dJSP.js                                         0.98 kB │ gzip:   0.53 kB
+build/client/assets/quick-action-B8oXptgX.js                                        0.99 kB │ gzip:   0.57 kB
+build/client/assets/layout-selection-K0Twp7WV.js                                    0.99 kB │ gzip:   0.60 kB
+build/client/assets/jsx-runtime-BaF6MA9L.js                                         1.01 kB │ gzip:   0.63 kB
+build/client/assets/archive-tabs-list-Bp6Vfh20.js                                   1.02 kB │ gzip:   0.59 kB
+build/client/assets/profile-setting-content-wrapper-DzwzNQ3P.js                     1.04 kB │ gzip:   0.57 kB
+build/client/assets/accessibility-By0XUGmH-bZrkWh4o.js                              1.06 kB │ gzip:   0.43 kB
+build/client/assets/accessibility-CbnOSAaA-fHE6-fVE.js                              1.08 kB │ gzip:   0.47 kB
+build/client/assets/accessibility-CBQcMygp-DH8KgfDn.js                              1.09 kB │ gzip:   0.57 kB
+build/client/assets/eraser-DWf1n76J.js                                              1.09 kB │ gzip:   0.45 kB
+build/client/assets/accessibility-BCbmVAXx-CdqjAeCs.js                              1.09 kB │ gzip:   0.58 kB
+build/client/assets/users-round-BZzspcfl.js                                         1.10 kB │ gzip:   0.48 kB
+build/client/assets/set-custom-native-drag-preview-BFcKKP1Q.js                      1.13 kB │ gzip:   0.62 kB
+build/client/assets/project-Dn4AjVBq.js                                             1.15 kB │ gzip:   0.69 kB
+build/client/assets/accessibility-WfdVFTQC-C88_vVun.js                              1.15 kB │ gzip:   0.50 kB
+build/client/assets/delete-view-modal-CdvEQEK0.js                                   1.17 kB │ gzip:   0.70 kB
+build/client/assets/accessibility-W6Mmdylb-CgUQeGdC.js                              1.18 kB │ gzip:   0.50 kB
+build/client/assets/use-timezone-Cie3W1Pt.js                                        1.18 kB │ gzip:   0.68 kB
+build/client/assets/accessibility-DgEQXtKu-B193hVSi.js                              1.19 kB │ gzip:   0.53 kB
+build/client/assets/accessibility-DF7cOy8e-WGbNgPqk.js                              1.20 kB │ gzip:   0.58 kB
+build/client/assets/accessibility-BNvQjWe3-CAykZJHH.js                              1.21 kB │ gzip:   0.59 kB
+build/client/assets/accessibility-CjmM2Xm3-ChQ8wQ1-.js                              1.22 kB │ gzip:   0.51 kB
+build/client/assets/index-D5fbbbta.js                                               1.23 kB │ gzip:   0.65 kB
+build/client/assets/accessibility-DFby1Pqa-VlgSLSY7.js                              1.24 kB │ gzip:   0.52 kB
+build/client/assets/accessibility-DQrDKEXq-BOGfHy8b.js                              1.25 kB │ gzip:   0.56 kB
+build/client/assets/accessibility-Dz-PtOqE-1No7l-Wo.js                              1.26 kB │ gzip:   0.54 kB
+build/client/assets/triangle-CW67AFjT.js                                            1.27 kB │ gzip:   0.50 kB
+build/client/assets/accessibility-DYMFDi-z-DSvjNQW-.js                              1.27 kB │ gzip:   0.57 kB
+build/client/assets/accessibility-D5GcsGLG-C0XzwtRs.js                              1.27 kB │ gzip:   0.56 kB
+build/client/assets/editor-DBuMyU9l.js                                              1.29 kB │ gzip:   0.69 kB
+build/client/assets/breadcrumb-link-DL_AoxZ9.js                                     1.30 kB │ gzip:   0.66 kB
+build/client/assets/issue-identifier--9XeopAM.js                                    1.30 kB │ gzip:   0.71 kB
+build/client/assets/page-BlCe9uBI.js                                                1.30 kB │ gzip:   0.72 kB
+build/client/assets/accessibility-Cyu1fvpk-YK8hgIxZ.js                              1.31 kB │ gzip:   0.55 kB
+build/client/assets/not-found-D3-YhIut.js                                           1.34 kB │ gzip:   0.74 kB
+build/client/assets/header-DmdL9ETI.js                                              1.35 kB │ gzip:   0.75 kB
+build/client/assets/store-wrapper-B_EgHi7f.js                                       1.40 kB │ gzip:   0.78 kB
+build/client/assets/minus-sUjhGFxF.js                                               1.42 kB │ gzip:   0.45 kB
+build/client/assets/filters-toggle-D_wZZZKT.js                                      1.42 kB │ gzip:   0.78 kB
+build/client/assets/detailed-empty-state-root-Dnajvcja.js                           1.44 kB │ gzip:   0.72 kB
+build/client/assets/accessibility-Bbk7VAT_-X9uGgUnx.js                              1.48 kB │ gzip:   0.64 kB
+build/client/assets/layout-ChvG5Ibi.js                                              1.49 kB │ gzip:   0.77 kB
+build/client/assets/page-B3ZGCVcp.js                                                1.53 kB │ gzip:   0.84 kB
+build/client/assets/layout-Bdwp6HPV.js                                              1.55 kB │ gzip:   0.81 kB
+build/client/assets/page-B4TN0eao.js                                                1.58 kB │ gzip:   0.85 kB
+build/client/assets/members-IimFq-VQ.js                                             1.62 kB │ gzip:   0.75 kB
+build/client/assets/page-BtordxX3.js                                                1.63 kB │ gzip:   0.81 kB
+build/client/assets/page-B0C9mAHn.js                                                1.63 kB │ gzip:   0.81 kB
+build/client/assets/page-BhAXGTtU.js                                                1.64 kB │ gzip:   0.91 kB
+build/client/assets/page-SFXwDprC.js                                                1.66 kB │ gzip:   0.85 kB
+build/client/assets/use-issues-BPwaDWP7.js                                          1.66 kB │ gzip:   0.52 kB
+build/client/assets/page-Bs2k78We.js                                                1.67 kB │ gzip:   0.86 kB
+build/client/assets/index-DAqBps7a.js                                               1.70 kB │ gzip:   0.91 kB
+build/client/assets/accessibility-Dmls8bAw-DZ04LdE6.js                              1.71 kB │ gzip:   0.66 kB
+build/client/assets/page-Lpd-MNXI.js                                                1.72 kB │ gzip:   0.87 kB
+build/client/assets/accessibility-BH9ethwp-S0YdkFbu.js                              1.74 kB │ gzip:   0.68 kB
+build/client/assets/page-FSWAAscE.js                                                1.74 kB │ gzip:   0.94 kB
+build/client/assets/layout-BuUpVGjw.js                                              1.81 kB │ gzip:   0.94 kB
+build/client/assets/list-item-DZgTU4ir.js                                           1.83 kB │ gzip:   0.85 kB
+build/client/assets/header-CqN9oIC5.js                                              1.84 kB │ gzip:   0.95 kB
+build/client/assets/posthog-view-CjGaot7a.js                                        1.84 kB │ gzip:   0.97 kB
+build/client/assets/useButton-DNJIw5j9.js                                           1.85 kB │ gzip:   0.95 kB
+build/client/assets/cycle-module-list-loader-C2D1riHv.js                            1.87 kB │ gzip:   0.72 kB
+build/client/assets/search-v8Ca-V4W.js                                              1.88 kB │ gzip:   0.98 kB
+build/client/assets/layout-CqCytdhD.js                                              1.88 kB │ gzip:   0.94 kB
+build/client/assets/layout-BOPmbCbV.js                                              1.88 kB │ gzip:   0.95 kB
+build/client/assets/layout-DvXhyNHE.js                                              1.88 kB │ gzip:   0.95 kB
+build/client/assets/list-layout-loader-DrDQJu37.js                                  1.93 kB │ gzip:   0.73 kB
+build/client/assets/page-R3DC_jB5.js                                                1.94 kB │ gzip:   0.93 kB
+build/client/assets/page-C7nWjRP1.js                                                1.94 kB │ gzip:   0.93 kB
+build/client/assets/dropdown-C7iEla9z.js                                            2.01 kB │ gzip:   0.93 kB
+build/client/assets/page-DOLks3HE.js                                                2.03 kB │ gzip:   1.02 kB
+build/client/assets/delete-issue-modal-BVWl9AR6.js                                  2.05 kB │ gzip:   1.12 kB
+build/client/assets/layout-DvcwJXve.js                                              2.10 kB │ gzip:   1.04 kB
+build/client/assets/nav-D3xvY_U7.js                                                 2.10 kB │ gzip:   1.00 kB
+build/client/assets/button-DbIxguAW.js                                              2.23 kB │ gzip:   1.07 kB
+build/client/assets/sidebar-BYa7X39v.js                                             2.34 kB │ gzip:   1.20 kB
+build/client/assets/page-X7J8hDo8.js                                                2.60 kB │ gzip:   1.27 kB
+build/client/assets/tree-item-C3Xkl4hR.js                                           2.60 kB │ gzip:   1.09 kB
+build/client/assets/quick-actions-helper-CC3f8Tit.js                                2.69 kB │ gzip:   0.91 kB
+build/client/assets/created-by-CtwQvV1I.js                                          2.73 kB │ gzip:   1.24 kB
+build/client/assets/cover-image.helper-heF-VtVr.js                                  2.80 kB │ gzip:   1.28 kB
+build/client/assets/use-editor-mention-RQASyTkt.js                                  2.86 kB │ gzip:   1.42 kB
+build/client/assets/layout-DjrDiBbq.js                                              2.88 kB │ gzip:   1.33 kB
+build/client/assets/layout-ComCNfOz.js                                              2.88 kB │ gzip:   1.33 kB
+build/client/assets/fetch-keys-D0CdhiQE.js                                          2.89 kB │ gzip:   0.95 kB
+build/client/assets/page-DNKf4EOR.js                                                3.03 kB │ gzip:   1.52 kB
+build/client/assets/authentication-wrapper-CGL70MNK.js                              3.11 kB │ gzip:   1.12 kB
+build/client/assets/page-DuCq_6Vy.js                                                3.14 kB │ gzip:   1.53 kB
+build/client/assets/issue-detail-quick-actions-PRdlwFVH.js                          3.14 kB │ gzip:   1.41 kB
+build/client/assets/layout-lGa5adlL.js                                              3.15 kB │ gzip:   1.52 kB
+build/client/assets/layout-C9_g3qhS.js                                              3.28 kB │ gzip:   1.67 kB
+build/client/assets/quick-actions-CkFrLcBb.js                                       3.29 kB │ gzip:   1.61 kB
+build/client/assets/page-CuhiEjXI.js                                                3.31 kB │ gzip:   1.60 kB
+build/client/assets/use-navigation-preferences-B0aVQQQX.js                          3.33 kB │ gzip:   1.01 kB
+build/client/assets/index.module-BT34jzXZ.js                                        3.57 kB │ gzip:   1.61 kB
+build/client/assets/project-wrapper-BaRzWWUT.js                                     3.74 kB │ gzip:   1.41 kB
+build/client/assets/use-operations-4A2buT3K.js                                      3.76 kB │ gzip:   1.35 kB
+build/client/assets/root-CcqEUNur.js                                                3.82 kB │ gzip:   1.56 kB
+build/client/assets/page-CAeb9XW2.js                                                3.98 kB │ gzip:   1.84 kB
+build/client/assets/page-Dygt--Fw.js                                                4.04 kB │ gzip:   1.84 kB
+build/client/assets/button-CJES52DI-BnNW-lyB.js                                     4.08 kB │ gzip:   1.11 kB
+build/client/assets/last--8AG1IYg.js                                                4.14 kB │ gzip:   1.91 kB
+build/client/assets/layout-DyQTw3qq.js                                              4.17 kB │ gzip:   1.93 kB
+build/client/assets/layout-Big1MbpZ.js                                              4.26 kB │ gzip:   1.85 kB
+build/client/assets/layout-Dm4p8-Q4.js                                              4.26 kB │ gzip:   1.90 kB
+build/client/assets/user-image-upload-modal-CEW90lws.js                             4.43 kB │ gzip:   1.90 kB
+build/client/assets/reset-password-BvWyzunS.js                                      4.48 kB │ gzip:   1.58 kB
+build/client/assets/profile-activity-list-Dn0wSNrm.js                               4.48 kB │ gzip:   1.61 kB
+build/client/assets/footer-CV6uw5Rg.js                                              4.49 kB │ gzip:   1.71 kB
+build/client/assets/dropdown-CYTAo5aW.js                                            4.50 kB │ gzip:   2.02 kB
+build/client/assets/layout-C_xqnPuB.js                                              4.58 kB │ gzip:   1.98 kB
+build/client/assets/features-list-BiSsgqEY.js                                       4.63 kB │ gzip:   2.00 kB
+build/client/assets/tabs-DXc_MTPw.js                                                4.67 kB │ gzip:   1.99 kB
+build/client/assets/index-wodV5kCE.js                                               4.72 kB │ gzip:   2.22 kB
+build/client/assets/page-BqFhnlDW.js                                                4.85 kB │ gzip:   2.15 kB
+build/client/assets/dropdown-DqYepgxV.js                                            4.88 kB │ gzip:   2.06 kB
+build/client/assets/email-Dd5f7LbQ.js                                               4.95 kB │ gzip:   1.23 kB
+build/client/assets/member-header-column-DyukW8Kc.js                                5.01 kB │ gzip:   1.64 kB
+build/client/assets/page-B7SUzJYF.js                                                5.20 kB │ gzip:   2.44 kB
+build/client/assets/state_group-CHAkL_Nn.js                                         5.26 kB │ gzip:   1.80 kB
+build/client/assets/use-issue-layout-store-QhH2BYAd.js                              5.27 kB │ gzip:   2.44 kB
+build/client/assets/chat-support-modal-BMA_UCZO.js                                  5.33 kB │ gzip:   2.18 kB
+build/client/assets/page-U4qhn8kZ.js                                                5.43 kB │ gzip:   2.34 kB
+build/client/assets/root-DdAntRyZ.js                                                5.56 kB │ gzip:   2.12 kB
+build/client/assets/posthog-provider-DobUzaau.js                                    5.71 kB │ gzip:   2.60 kB
+build/client/assets/page-C6DasZ7r.js                                                5.72 kB │ gzip:   2.49 kB
+build/client/assets/index-BvN7fD1M.js                                               5.72 kB │ gzip:   2.46 kB
+build/client/assets/modal-tt7zsUw0.js                                               5.80 kB │ gzip:   2.40 kB
+build/client/assets/page-CzKlK5KQ.js                                                5.83 kB │ gzip:   1.96 kB
+build/client/assets/page-G8xDhFwL.js                                                5.87 kB │ gzip:   2.34 kB
+build/client/assets/page-DH27AMDK.js                                                5.97 kB │ gzip:   2.01 kB
+build/client/assets/empty-state--QA87_hZ-DlTCIB9p.js                                5.97 kB │ gzip:   2.48 kB
+build/client/assets/empty-state-Bx1I4r32-BjPlVTRc.js                                5.98 kB │ gzip:   2.50 kB
+build/client/assets/page-Cb69IMub.js                                                6.06 kB │ gzip:   2.56 kB
+build/client/assets/page-DgCtrGVf.js                                                6.15 kB │ gzip:   2.72 kB
+build/client/assets/page-BpZT7-0Q.js                                                6.17 kB │ gzip:   2.77 kB
+build/client/assets/page-B7S8cj6F.js                                                6.18 kB │ gzip:   2.42 kB
+build/client/assets/editor-pfZHq2i1.js                                              6.19 kB │ gzip:   2.47 kB
+build/client/assets/page-BljsDr3v.js                                                6.27 kB │ gzip:   2.79 kB
+build/client/assets/page-C2qvyAzj.js                                                6.27 kB │ gzip:   2.43 kB
+build/client/assets/layout-DncXrZ9H.js                                              6.28 kB │ gzip:   2.75 kB
+build/client/assets/issue.service-Xvdx4u7N.js                                       6.29 kB │ gzip:   1.01 kB
+build/client/assets/empty-state-CSU-eNXa-C-hNs0Ha.js                                6.32 kB │ gzip:   2.21 kB
+build/client/assets/page-K8p0-AUv.js                                                6.35 kB │ gzip:   2.80 kB
+build/client/assets/layout-Cgca-Ke0.js                                              6.40 kB │ gzip:   2.69 kB
+build/client/assets/quick-actions-kc-I48tY.js                                       6.41 kB │ gzip:   2.57 kB
+build/client/assets/layout-DussGb6c.js                                              6.44 kB │ gzip:   2.86 kB
+build/client/assets/page-DHzl7SVl.js                                                6.74 kB │ gzip:   2.30 kB
+build/client/assets/image-picker-popover-DeYmNEMz.js                                6.95 kB │ gzip:   2.72 kB
+build/client/assets/page-B6YJGEgo.js                                                6.98 kB │ gzip:   3.04 kB
+build/client/assets/empty-state-2HXwXn3J-D3d5JCmA.js                                7.08 kB │ gzip:   2.28 kB
+build/client/assets/archive-restore-modal-CY7wVVO0.js                               7.20 kB │ gzip:   2.28 kB
+build/client/assets/theme-switch-fCCBXhds.js                                        7.20 kB │ gzip:   1.87 kB
+build/client/assets/empty-state-C-hIr8ir-BY9Fv38l.js                                7.36 kB │ gzip:   2.51 kB
+build/client/assets/empty-state-zRY-HB-Z-DqqHLaMK.js                                7.44 kB │ gzip:   2.40 kB
+build/client/assets/workspace-level-BJ8t6c4k.js                                     7.52 kB │ gzip:   3.03 kB
+build/client/assets/empty-state-C_lwFNRg-BITZB_ID.js                                7.56 kB │ gzip:   2.70 kB
+build/client/assets/empty-state-D5qcQX_G-PD1_O8Jr.js                                7.59 kB │ gzip:   2.49 kB
+build/client/assets/empty-state-DwKYSi5P-ClRgDj3K.js                                7.61 kB │ gzip:   2.50 kB
+build/client/assets/tabs-DTTODKix.js                                                7.61 kB │ gzip:   3.12 kB
+build/client/assets/layout-DPsBFhHq.js                                              7.70 kB │ gzip:   3.32 kB
+build/client/assets/empty-state-CrcBeIbI-BG5yAiOx.js                                7.76 kB │ gzip:   2.72 kB
+build/client/assets/page-DzC9Z1oD.js                                                7.77 kB │ gzip:   3.25 kB
+build/client/assets/empty-state-DuDTi8Pa-DmqY--yu.js                                7.80 kB │ gzip:   2.76 kB
+build/client/assets/page-Tha6Y6Xm.js                                                7.86 kB │ gzip:   3.05 kB
+build/client/assets/empty-state-Dku1Pk_I-Cm1CgFff.js                                7.89 kB │ gzip:   2.57 kB
+build/client/assets/empty-state-B9peiBhq-DDbOwiFV.js                                7.93 kB │ gzip:   2.70 kB
+build/client/assets/page-7adxci4m.js                                                8.00 kB │ gzip:   3.48 kB
+build/client/assets/empty-state-BbmJMue4-DPMLrXUJ.js                                8.01 kB │ gzip:   2.63 kB
+build/client/assets/page-CFhfuVf2.js                                                8.02 kB │ gzip:   3.35 kB
+build/client/assets/layout-BX8vLdoS.js                                              8.22 kB │ gzip:   3.37 kB
+build/client/assets/empty-state-CX_bqipC-CnkVKRIA.js                                8.29 kB │ gzip:   2.65 kB
+build/client/assets/authentication.helper-GPbUlGSP.js                               8.35 kB │ gzip:   2.01 kB
+build/client/assets/root-Dzq3r9mS.js                                                8.39 kB │ gzip:   2.81 kB
+build/client/assets/gantt-layout-loader-D35n6LUp.js                                 8.79 kB │ gzip:   3.26 kB
+build/client/assets/empty-state-BZXh-NJB-Sx5bXRqK.js                                8.85 kB │ gzip:   2.70 kB
+build/client/assets/empty-state-Bz380OY7-CSTAzo4p.js                                8.85 kB │ gzip:   2.79 kB
+build/client/assets/page-DlNJ8x5e.js                                                8.86 kB │ gzip:   3.12 kB
+build/client/assets/layout-BMWZsHzj.js                                              8.88 kB │ gzip:   3.48 kB
+build/client/assets/webhooks-list-DXbXVEvk.js                                       8.94 kB │ gzip:   3.24 kB
+build/client/assets/page-CBSBNgBX.js                                                9.07 kB │ gzip:   3.96 kB
+build/client/assets/page-x9UQm5KU.js                                                9.09 kB │ gzip:   3.87 kB
+build/client/assets/layout-zmVsbpCs.js                                              9.14 kB │ gzip:   3.66 kB
+build/client/assets/index-CItl1Ey2.js                                               9.27 kB │ gzip:   4.45 kB
+build/client/assets/layout-CFXbCpeU.js                                              9.41 kB │ gzip:   3.51 kB
+build/client/assets/page-CzdR7m6x.js                                                9.46 kB │ gzip:   3.90 kB
+build/client/assets/element-BoPiNVrI.js                                             9.93 kB │ gzip:   3.57 kB
+build/client/assets/layout-DTVZ2bsK.js                                              9.93 kB │ gzip:   3.67 kB
+build/client/assets/layout-wiaG3ehd.js                                             10.18 kB │ gzip:   3.69 kB
+build/client/assets/layout-Bo4OQldA.js                                             10.57 kB │ gzip:   3.97 kB
+build/client/assets/use-issues-actions-DUV3xnmW.js                                 10.63 kB │ gzip:   1.59 kB
+build/client/assets/modal-jGXRjN2a.js                                              10.73 kB │ gzip:   4.05 kB
+build/client/assets/page-CAonkwok.js                                               11.15 kB │ gzip:   4.52 kB
+build/client/assets/layout-Cvor_a4Z.js                                             11.34 kB │ gzip:   4.32 kB
+build/client/assets/page-Cu_BNGjR.js                                               11.66 kB │ gzip:   4.34 kB
+build/client/assets/page-LDNZuf11.js                                               11.73 kB │ gzip:   3.55 kB
+build/client/assets/empty-state-CmGnpdzi-DC7LMc9_.js                               11.74 kB │ gzip:   3.23 kB
+build/client/assets/layout-nlZhYVmp.js                                             11.89 kB │ gzip:   4.50 kB
+build/client/assets/empty-state-DExnsw0Z-DK4Qemix.js                               12.10 kB │ gzip:   3.24 kB
+build/client/assets/use-debounced-duplicate-issues-CjYzNYE_.js                     12.10 kB │ gzip:   4.29 kB
+build/client/assets/page-CpSAgLOW.js                                               12.26 kB │ gzip:   4.18 kB
+build/client/assets/utils-n-zEwXXm.js                                              12.52 kB │ gzip:   5.25 kB
+build/client/assets/index-DC0k2QzH.js                                              12.75 kB │ gzip:   4.96 kB
+build/client/assets/mobile-header-DELnW9Ao.js                                      12.88 kB │ gzip:   3.87 kB
+build/client/assets/index-DyFhvff_.js                                              13.51 kB │ gzip:   4.57 kB
+build/client/assets/page-DiyWf220.js                                               14.31 kB │ gzip:   5.26 kB
+build/client/assets/PolarAngleAxis-53LFJBiz.js                                     14.60 kB │ gzip:   4.07 kB
+build/client/assets/page-DLo0mRHq.js                                               15.24 kB │ gzip:   5.30 kB
+build/client/assets/layout-Bbu7I0xe.js                                             15.26 kB │ gzip:   5.50 kB
+build/client/assets/page-kDZgbAUf.js                                               15.29 kB │ gzip:   4.78 kB
+build/client/assets/page-Bw30nfwn.js                                               15.35 kB │ gzip:   5.03 kB
+build/client/assets/root-C3_UHTQp.js                                               15.51 kB │ gzip:   4.13 kB
+build/client/assets/activity-DLj48hir.js                                           15.65 kB │ gzip:   2.79 kB
+build/client/assets/page-Ibuk8xpU.js                                               15.90 kB │ gzip:   5.79 kB
+build/client/assets/spreadsheet-view-DK_8vC1l.js                                   16.24 kB │ gzip:   5.29 kB
+build/client/assets/layout-MiSX_Pf1.js                                             16.28 kB │ gzip:   5.28 kB
+build/client/assets/form-vSwO8Jx1.js                                               16.60 kB │ gzip:   4.94 kB
+build/client/assets/base-BVVry_y9.js                                               16.99 kB │ gzip:   5.68 kB
+build/client/assets/page-k5DnWZ71.js                                               17.16 kB │ gzip:   5.99 kB
+build/client/assets/page-DII6AT2t.js                                               17.33 kB │ gzip:   5.76 kB
+build/client/assets/page-MTiTuVqb.js                                               18.36 kB │ gzip:   5.53 kB
+build/client/assets/element-adapter-B_UUVPR7.js                                    18.57 kB │ gzip:   5.91 kB
+build/client/assets/actions-B0wd5rQp.js                                            18.62 kB │ gzip:   5.75 kB
+build/client/assets/root-BD9BgLK7.js                                               19.48 kB │ gzip:   6.47 kB
+build/client/assets/index-C4qegHrF.js                                              20.93 kB │ gzip:   7.24 kB
+build/client/assets/auth-base-BvZ5TV8N.js                                          21.13 kB │ gzip:   6.36 kB
+build/client/assets/spreadsheet-BQnmIq0A.js                                        21.58 kB │ gzip:   5.35 kB
+build/client/assets/FloatingPortalLite-CA2oba7x.js                                 21.58 kB │ gzip:   8.41 kB
+build/client/assets/all-properties-L4ymMJUI.js                                     21.58 kB │ gzip:   6.19 kB
+build/client/assets/base-list-root-CYT2iNu4.js                                     21.71 kB │ gzip:   7.69 kB
+build/client/assets/page-DNvZbABk.js                                               23.36 kB │ gzip:   8.02 kB
+build/client/assets/base-kanban-root-BCzLgAFZ.js                                   23.51 kB │ gzip:   7.66 kB
+build/client/assets/page-Dua0W4bs.js                                               23.90 kB │ gzip:   7.86 kB
+build/client/assets/page-iAt-a-M9.js                                               24.41 kB │ gzip:   7.55 kB
+build/client/assets/classname-iNHf9Pb8-BpotA9kf.js                                 24.52 kB │ gzip:   7.82 kB
+build/client/assets/page-CIUMLcPN.js                                               26.30 kB │ gzip:   7.20 kB
+build/client/assets/issue-detail-BsLtK9zu.js                                       26.78 kB │ gzip:   5.71 kB
+build/client/assets/layout-Cl_1VAw_.js                                             26.83 kB │ gzip:   8.03 kB
+build/client/assets/index.esm-CoDHXyCT.js                                          27.71 kB │ gzip:  10.31 kB
+build/client/assets/page-DM8R-Y_d.js                                               28.61 kB │ gzip:   8.16 kB
+build/client/assets/base-spreadsheet-root-Gngqiwb2.js                              29.56 kB │ gzip:   8.82 kB
+build/client/assets/page-C24aVl42.js                                               29.57 kB │ gzip:   9.68 kB
+build/client/assets/workflow-disabled-overlay-D3ySVP_N.js                          29.87 kB │ gzip:   6.63 kB
+build/client/assets/debug-build-D4xv_5pJ.js                                        30.44 kB │ gzip:  10.60 kB
+build/client/assets/page-Bi-5seNB.js                                               31.79 kB │ gzip:   8.15 kB
+build/client/assets/root-nvc5mM11.js                                               35.72 kB │ gzip:  10.19 kB
+build/client/assets/index-Br1-NbqN.js                                              36.00 kB │ gzip:   9.24 kB
+build/client/assets/modal-DUUPY1ox.js                                              37.20 kB │ gzip:  11.50 kB
+build/client/assets/state-group-Bup5uQds.js                                        39.01 kB │ gzip:   7.90 kB
+build/client/assets/issue-progress-Dl-6tnun.js                                     39.87 kB │ gzip:  11.15 kB
+build/client/assets/date-DMToQXaU.js                                               42.13 kB │ gzip:  13.74 kB
+build/client/assets/page-KV5_QY88.js                                               42.20 kB │ gzip:  13.33 kB
+build/client/assets/page-CwNZtFJh.js                                               50.03 kB │ gzip:  14.62 kB
+build/client/assets/entry.client-BxlSeJ2d.js                                       56.37 kB │ gzip:  20.40 kB
+build/client/assets/projects-app-provider-ClBXXvY5.js                              56.73 kB │ gzip:  15.19 kB
+build/client/assets/index-BZ4WZtlA.js                                              59.53 kB │ gzip:  16.61 kB
+build/client/assets/translations-B_G1dQwd-BWZ7XWYp.js                              64.80 kB │ gzip:  20.95 kB
+build/client/assets/mobxreact.esm-DUk6Lpdc.js                                      65.22 kB │ gzip:  19.49 kB
+build/client/assets/translations-CcNuvddF-gc9BRrrr.js                              66.53 kB │ gzip:  21.32 kB
+build/client/assets/translations-CesXN161-UE8oNtI6.js                              69.99 kB │ gzip:  20.86 kB
+build/client/assets/stickies-list-ToEieyGH.js                                      70.33 kB │ gzip:  23.16 kB
+build/client/assets/translations-DEDisMsY-BiAYekNh.js                              70.48 kB │ gzip:  20.93 kB
+build/client/assets/translations-DPDCnerQ-D1P7fkYd.js                              70.66 kB │ gzip:  20.98 kB
+build/client/assets/root-Cfr38SuY.js                                               71.55 kB │ gzip:  18.62 kB
+build/client/assets/translations-BjNwpHLh-CClQjIjZ.js                              72.67 kB │ gzip:  20.80 kB
+build/client/assets/translations-DL6tY_OO-ClbX4xog.js                              72.72 kB │ gzip:  20.37 kB
+build/client/assets/translations-QmzuNDJK-9XVoYndT.js                              74.53 kB │ gzip:  20.71 kB
+build/client/assets/translations-EBMywXIF-BxF3drkb.js                              74.74 kB │ gzip:  21.22 kB
+build/client/assets/translations-B2TWFRVx-CoMJWz4O.js                              77.49 kB │ gzip:  21.55 kB
+build/client/assets/translations-DW_K5yIF-H83yOeRl.js                              77.55 kB │ gzip:  21.76 kB
+build/client/assets/translations-Pvu3yt-a-BeHzlnQ3.js                              78.19 kB │ gzip:  22.30 kB
+build/client/assets/translations-B1PCm7rE-BceRnQ21.js                              79.29 kB │ gzip:  21.99 kB
+build/client/assets/translations-DNozZaU2-D02l7MZn.js                              79.43 kB │ gzip:  21.33 kB
+build/client/assets/footer-CZDJQaxk.js                                             80.06 kB │ gzip:  24.54 kB
+build/client/assets/workitems-insight-table-DmP1GpPH.js                            80.78 kB │ gzip:  23.79 kB
+build/client/assets/translations-UUNIktJQ-DK70rwZD.js                              82.30 kB │ gzip:  22.65 kB
+build/client/assets/translations-B62tteMh-Jw_TW5-m.js                              86.21 kB │ gzip:  21.69 kB
+build/client/assets/layout-9CRnzU4s.js                                             87.63 kB │ gzip:  23.95 kB
+build/client/assets/translations-CmNDbBAf-DzbaM4rN.js                              89.79 kB │ gzip:  22.67 kB
+build/client/assets/root-BNIIJSns.js                                               93.03 kB │ gzip:  22.02 kB
+build/client/assets/translations-BDoRpFv7-DblyYE4f.js                             101.46 kB │ gzip:  23.94 kB
+build/client/assets/translations-Bhb-zHF8-BkM2jD0Y.js                             105.79 kB │ gzip:  24.18 kB
+build/client/assets/modal-DXiG_2Br.js                                             110.14 kB │ gzip:  28.31 kB
+build/client/assets/chunk-UIGDSWPH-DDGUW2QL.js                                    117.16 kB │ gzip:  39.71 kB
+build/client/assets/emoji-icon-picker-BEd3RBLu-DHHTTK5Q.js                        129.53 kB │ gzip:  36.96 kB
+build/client/assets/index-B6uX9a0v.js                                             134.71 kB │ gzip:  43.26 kB
+build/client/assets/icons-BueZeOyQ-DL8hQ1I5.js                                    162.70 kB │ gzip:  55.33 kB
+build/client/assets/core-CMX6jCKA-CPyQwL25.js                                     165.35 kB │ gzip:  51.97 kB
+build/client/assets/event-tracker.helper-DiL4-ARF.js                              168.55 kB │ gzip:  57.35 kB
+build/client/assets/top-nav-power-k-Cjfc8q3-.js                                   196.68 kB │ gzip:  63.50 kB
+build/client/assets/generateCategoricalChart-DdPDJehm.js                          357.83 kB │ gzip:  95.95 kB
+build/client/assets/store-context-BCxy3RCI.js                                     391.09 kB │ gzip:  86.22 kB
+build/client/assets/user.service-OIDFA40Q.js                                      414.70 kB │ gzip: 131.17 kB
+build/client/assets/index-DbNb0nn0.js                                             453.39 kB │ gzip: 133.40 kB
+build/client/assets/toolbar-C9CGVeDd.js                                           631.63 kB │ gzip: 165.66 kB
+build/client/assets/index-CdXSI7kb.js                                             635.89 kB │ gzip: 206.96 kB
+build/client/assets/editor-CeUOE_jq.js                                          1,320.90 kB │ gzip: 435.22 kB
+build/client/assets/use-editor-flagging-tgf7IKm_.js                             1,634.08 kB │ gzip: 447.28 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 25.09s
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/web/.env[39m
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/web/.env[39m
+vite v7.1.11 building SSR bundle for production...
+transforming...
+✓ 765 modules transformed.
+rendering chunks...
+build/server/assets/favicon-16x16-B_Opgp1K.png                                      0.47 kB
+build/server/assets/favicon-32x32-cfWXc3P9.png                                      0.76 kB
+build/server/assets/icon-180x180-ArenqHjH.png                                       2.71 kB
+build/server/assets/background-pattern-dark-CmVIYUu1.svg                            6.19 kB
+build/server/assets/background-pattern-DUvEFmph.svg                                 6.23 kB
+build/server/assets/icon-512x512-CyS1mcXS.png                                       8.70 kB
+build/server/assets/favicon-DJlV-mcI.ico                                           15.41 kB
+build/server/assets/inter-v13-latin-regular-BT1H-PT_.woff2                         21.56 kB
+build/server/assets/inter-v13-latin-200-BJ9n9uBU.woff2                             22.44 kB
+build/server/assets/inter-v13-latin-300-IcD-qYDc.woff2                             22.44 kB
+build/server/assets/inter-v13-latin-500-kWhwEdDH.woff2                             22.76 kB
+build/server/assets/inter-v13-latin-800-mdTeNKyI.woff2                             22.79 kB
+build/server/assets/inter-v13-latin-600-B2Ssfs8e.woff2                             22.82 kB
+build/server/assets/inter-v13-latin-700-C2zfFY7I.woff2                             22.90 kB
+build/server/.vite/manifest.json                                                   29.36 kB
+build/server/assets/maintenance-mode-light-Dqp39OMJ.svg                            31.93 kB
+build/server/assets/maintenance-mode-dark-DAfHd5vC.svg                             32.02 kB
+build/server/assets/plane-takeoff-BnGS5y5s.png                                     47.82 kB
+build/server/assets/og-image-DL-1GVBU.png                                          71.43 kB
+build/server/assets/material-symbols-rounded-v168-latin-regular-DuglM4Ng.woff2    282.66 kB
+build/server/assets/logo-spinner-light-DmBc4A-4.gif                               427.97 kB
+build/server/assets/logo-spinner-dark-Cc1AqekO.gif                                976.40 kB
+build/server/assets/server-build-BbJEVIxR.css                                       2.26 kB
+build/server/assets/globals-D-XIz7ot.css                                          148.73 kB
+build/server/assets/editor-BJXop2Ep-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-p0a5vmrS-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-RKmm77Av-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-NFKGp0gG-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-yIqSq-5W-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-BuFA5f_e-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-CIAgCMO5-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-CGid2EJ6-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-CxcKeB-j-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-BIzBTq4Z-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-BDzA1Ojw-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-C3WspIm--DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-B-9PHzaF-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-mFn0qowv-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-BUhZo_Cu-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-Hezb2J3S-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-9zLZkE41-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-Ckcw_rVs-DiS7lhpe.js                                     0.07 kB
+build/server/assets/editor-j_r67XNG-DiS7lhpe.js                                     0.07 kB
+build/server/assets/user-user-COsQNGZ7.js                                           0.31 kB
+build/server/assets/core-CMX6jCKA-CI4LCxt5.js                                       0.64 kB
+build/server/index.js                                                               0.86 kB
+build/server/assets/posthog-view-DU-VExVG.js                                        1.24 kB
+build/server/assets/accessibility-By0XUGmH-DrPs4PVG.js                              1.28 kB
+build/server/assets/accessibility-CbnOSAaA-DsODPKhs.js                              1.30 kB
+build/server/assets/accessibility-CBQcMygp-Csa0_vKR.js                              1.31 kB
+build/server/assets/accessibility-BCbmVAXx-Ce-NiSXP.js                              1.31 kB
+build/server/assets/accessibility-WfdVFTQC-CmYhuO6V.js                              1.37 kB
+build/server/assets/accessibility-W6Mmdylb-DCRA5uvC.js                              1.40 kB
+build/server/assets/accessibility-DgEQXtKu-CryUyAMB.js                              1.41 kB
+build/server/assets/accessibility-DF7cOy8e-95WLTC_n.js                              1.42 kB
+build/server/assets/accessibility-BNvQjWe3-BeWZN9N7.js                              1.43 kB
+build/server/assets/accessibility-CjmM2Xm3-D04Nnb_6.js                              1.44 kB
+build/server/assets/accessibility-DFby1Pqa-D_3ODi1x.js                              1.46 kB
+build/server/assets/accessibility-DQrDKEXq-BqYAsMJe.js                              1.47 kB
+build/server/assets/accessibility-Dz-PtOqE-CobSnTVd.js                              1.48 kB
+build/server/assets/accessibility-DYMFDi-z-CqKNcSyy.js                              1.49 kB
+build/server/assets/accessibility-D5GcsGLG-D5oOICVK.js                              1.49 kB
+build/server/assets/accessibility-Cyu1fvpk-Be6gGOk1.js                              1.53 kB
+build/server/assets/accessibility-Bbk7VAT_-0diisc_K.js                              1.70 kB
+build/server/assets/chat-support-modal-ChkOAh9O.js                                  1.76 kB
+build/server/assets/accessibility-Dmls8bAw-Dp4VH5bH.js                              1.93 kB
+build/server/assets/accessibility-BH9ethwp-DT11pUJt.js                              1.96 kB
+build/server/assets/store-wrapper-D5zemdj_.js                                       2.97 kB
+build/server/assets/posthog-provider-BLg9Vker.js                                    5.53 kB
+build/server/assets/empty-state--QA87_hZ-Bsqyilkb.js                                7.09 kB
+build/server/assets/empty-state-Bx1I4r32-B2oeCw5O.js                                7.10 kB
+build/server/assets/empty-state-CSU-eNXa-DZwq7lb_.js                                7.43 kB
+build/server/assets/empty-state-2HXwXn3J-4MnAp3Wz.js                                8.19 kB
+build/server/assets/empty-state-C-hIr8ir-bGDKs03p.js                                8.47 kB
+build/server/assets/empty-state-zRY-HB-Z-I_Pnuteh.js                                8.55 kB
+build/server/assets/empty-state-C_lwFNRg-Duczj023.js                                8.68 kB
+build/server/assets/empty-state-D5qcQX_G-C6E0Owds.js                                8.71 kB
+build/server/assets/empty-state-DwKYSi5P-CRCjuGm5.js                                8.72 kB
+build/server/assets/empty-state-CrcBeIbI-DvkYCGAJ.js                                8.87 kB
+build/server/assets/empty-state-DuDTi8Pa-CrurbED8.js                                8.91 kB
+build/server/assets/empty-state-Dku1Pk_I-LylsH0q6.js                                9.00 kB
+build/server/assets/empty-state-B9peiBhq-Cwa9Baxb.js                                9.04 kB
+build/server/assets/empty-state-BbmJMue4-Cv9uds5g.js                                9.13 kB
+build/server/assets/empty-state-CX_bqipC-CTLg7zyv.js                                9.41 kB
+build/server/assets/empty-state-BZXh-NJB-s8tE8Ksw.js                                9.96 kB
+build/server/assets/empty-state-Bz380OY7-C9E8G8k2.js                                9.97 kB
+build/server/assets/empty-state-CmGnpdzi-Cm2Abc4N.js                               12.85 kB
+build/server/assets/empty-state-DExnsw0Z-DiRoqy-s.js                               13.21 kB
+build/server/assets/translations-B_G1dQwd-D_hGrM0c.js                              82.53 kB
+build/server/assets/translations-CcNuvddF-BfnvZgPM.js                              84.48 kB
+build/server/assets/translations-CesXN161-BUk_dFxZ.js                              87.90 kB
+build/server/assets/translations-DEDisMsY-DV-LMH4o.js                              88.42 kB
+build/server/assets/translations-DPDCnerQ-DwYKdqq2.js                              88.57 kB
+build/server/assets/translations-DL6tY_OO-BfNtWFzw.js                              90.63 kB
+build/server/assets/translations-BjNwpHLh-CZVuxl3F.js                              91.18 kB
+build/server/assets/translations-QmzuNDJK-DsX5Npgi.js                              92.43 kB
+build/server/assets/translations-EBMywXIF-Bj2CbKZI.js                              92.49 kB
+build/server/assets/translations-B2TWFRVx-31QBqesE.js                              95.42 kB
+build/server/assets/translations-DW_K5yIF-Bn66EfAd.js                              95.46 kB
+build/server/assets/translations-Pvu3yt-a-Cv7fJv2G.js                              96.09 kB
+build/server/assets/translations-B1PCm7rE-qzDpq1Tm.js                              97.23 kB
+build/server/assets/translations-DNozZaU2-DUVIKzK-.js                              97.38 kB
+build/server/assets/translations-UUNIktJQ-BcVuD5aK.js                             100.24 kB
+build/server/assets/translations-B62tteMh-DxeK8mKR.js                             104.14 kB
+build/server/assets/translations-CmNDbBAf-B2AIkFZq.js                             107.72 kB
+build/server/assets/translations-BDoRpFv7-BnWke1t2.js                             119.37 kB
+build/server/assets/translations-Bhb-zHF8-BDGWG2by.js                             123.74 kB
+build/server/assets/server-build-jFa0kB6R.js                                    1,529.26 kB
+
+✓ 23 assets cleaned from React Router server build.
+build/client/assets/globals-D-XIz7ot.css
+build/client/assets/favicon-16x16-B_Opgp1K.png
+build/client/assets/favicon-32x32-cfWXc3P9.png
+build/client/assets/favicon-DJlV-mcI.ico
+build/client/assets/icon-180x180-ArenqHjH.png
+build/client/assets/icon-512x512-CyS1mcXS.png
+build/client/assets/og-image-DL-1GVBU.png
+build/client/assets/logo-spinner-dark-Cc1AqekO.gif
+build/client/assets/logo-spinner-light-DmBc4A-4.gif
+build/client/assets/maintenance-mode-dark-DAfHd5vC.svg
+build/client/assets/maintenance-mode-light-Dqp39OMJ.svg
+build/client/assets/background-pattern-dark-CmVIYUu1.svg
+build/client/assets/background-pattern-DUvEFmph.svg
+build/client/assets/plane-takeoff-BnGS5y5s.png
+build/client/assets/inter-v13-latin-200-BJ9n9uBU.woff2
+build/client/assets/inter-v13-latin-300-IcD-qYDc.woff2
+build/client/assets/inter-v13-latin-regular-BT1H-PT_.woff2
+build/client/assets/inter-v13-latin-500-kWhwEdDH.woff2
+build/client/assets/inter-v13-latin-600-B2Ssfs8e.woff2
+build/client/assets/inter-v13-latin-700-C2zfFY7I.woff2
+build/client/assets/inter-v13-latin-800-mdTeNKyI.woff2
+build/client/assets/material-symbols-rounded-v168-latin-regular-DuglM4Ng.woff2
+build/server/assets/server-build-BbJEVIxR.css
+✓ 1 asset moved from React Router server build to client assets.
+build/client/assets/server-build-BbJEVIxR.css
+
+SPA Mode: Generated build/client/index.html
+Removing the server build in /root/plane-hybrid-deployment/web/build/server due to ssr:false
+✓ built in 3.56s

@@ -1,0 +1,16 @@
+
+> @plane/shared-state@1.2.0 build /root/plane-hybrid-deployment/packages/shared-state
+> tsdown
+
+ℹ tsdown v0.16.0 powered by rolldown v1.0.0-beta.46
+ℹ Using tsdown config: /root/plane-hybrid-deployment/packages/shared-state/tsdown.config.ts
+ℹ entry: src/index.ts
+ℹ tsconfig: tsconfig.json
+ℹ Build start
+ℹ Cleaning 4 files
+ℹ dist/index.js        38.74 kB │ gzip:  8.13 kB
+ℹ dist/index.js.map    81.36 kB │ gzip: 17.05 kB
+ℹ dist/index.d.ts.map   8.61 kB │ gzip:  3.41 kB
+ℹ dist/index.d.ts      21.27 kB │ gzip:  4.26 kB
+ℹ 4 files, total: 149.98 kB
+✔ Build complete in 1611ms

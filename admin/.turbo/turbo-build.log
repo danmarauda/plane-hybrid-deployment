@@ -1,0 +1,152 @@
+
+> admin@1.2.0 build /root/plane-hybrid-deployment/admin
+> react-router build
+
+[38;5;142m[dotenvx@1.51.1] injecting env (6) from /root/plane-hybrid-deployment/admin/.env[39m
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/admin/.env[39m
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/admin/.env[39m
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/admin/.env[39m
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/admin/.env[39m
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/admin/.env[39m
+vite v7.1.11 building for production...
+transforming...
+../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.4_@opentelemetry+api@1.9.0_babel-plugin_7594f27cdf21406239fbf2ef2f63cdbd/node_modules/next-themes/dist/index.module.js (1:1576): A comment
+
+"/*#__PURE__*/"
+
+in "../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.4_@opentelemetry+api@1.9.0_babel-plugin_7594f27cdf21406239fbf2ef2f63cdbd/node_modules/next-themes/dist/index.module.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.4_@opentelemetry+api@1.9.0_babel-plugin_7594f27cdf21406239fbf2ef2f63cdbd/node_modules/next-themes/dist/index.module.js (1:2992): A comment
+
+"/*#__PURE__*/"
+
+in "../node_modules/.pnpm/next-themes@0.2.1_next@14.2.32_@babel+core@7.28.4_@opentelemetry+api@1.9.0_babel-plugin_7594f27cdf21406239fbf2ef2f63cdbd/node_modules/next-themes/dist/index.module.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+✓ 5424 modules transformed.
+rendering chunks...
+computing gzip size...
+build/client/assets/favicon-16x16-B_Opgp1K.png                                    0.47 kB
+build/client/assets/oidc-logo-Cvut7oPT.svg                                        0.70 kB │ gzip:  0.42 kB
+build/client/assets/google-logo-r0ky5Kfn.svg                                      0.74 kB │ gzip:  0.43 kB
+build/client/assets/favicon-32x32-cfWXc3P9.png                                    0.76 kB
+build/client/assets/gitlab-logo-BL2xQyij.svg                                      1.06 kB │ gzip:  0.47 kB
+build/client/assets/saml-logo-4VwRX8hS.svg                                        2.06 kB │ gzip:  1.04 kB
+build/client/assets/gitea-logo-BAYfzmEl.svg                                       2.14 kB │ gzip:  1.04 kB
+build/client/assets/takeoff-icon-dark-EbV9jX7-.svg                                2.98 kB │ gzip:  1.00 kB
+build/client/assets/takeoff-icon-light-2XLBscmc.svg                               3.16 kB │ gzip:  1.09 kB
+build/client/assets/instance-failure-dark-DE7I22mw.svg                            4.11 kB │ gzip:  1.27 kB
+build/client/assets/instance-failure-C1aRKNan.svg                                 4.11 kB │ gzip:  1.28 kB
+build/client/assets/404-DWCFZzXK.svg                                              5.42 kB │ gzip:  1.57 kB
+build/client/assets/apple-touch-icon-BmADsVmV.png                                 6.29 kB
+build/client/assets/github-black-DmZ70PA_.png                                    14.03 kB
+build/client/assets/favicon-DJlV-mcI.ico                                         15.41 kB
+build/client/assets/github-white-BwRnG8jn.png                                    16.56 kB
+build/client/assets/inter-v13-latin-regular-BT1H-PT_.woff2                       21.56 kB
+build/client/assets/inter-v13-latin-200-BJ9n9uBU.woff2                           22.44 kB
+build/client/assets/inter-v13-latin-300-IcD-qYDc.woff2                           22.44 kB
+build/client/assets/inter-v13-latin-500-kWhwEdDH.woff2                           22.76 kB
+build/client/assets/inter-v13-latin-800-mdTeNKyI.woff2                           22.79 kB
+build/client/assets/inter-v13-latin-600-B2Ssfs8e.woff2                           22.82 kB
+build/client/assets/inter-v13-latin-700-C2zfFY7I.woff2                           22.90 kB
+build/client/.vite/manifest.json                                                 25.04 kB │ gzip:  2.80 kB
+build/client/assets/material-symbols-rounded-v168-latin-regular-DuglM4Ng.woff2  282.66 kB
+build/client/assets/logo-spinner-light-DmBc4A-4.gif                             427.97 kB
+build/client/assets/logo-spinner-dark-Cc1AqekO.gif                              976.40 kB
+build/client/assets/root-BbJEVIxR.css                                             2.26 kB │ gzip:  0.65 kB
+build/client/assets/globals-DellznQo.css                                         37.87 kB │ gzip:  7.63 kB
+build/client/assets/gitea-logo-B7V18nrw.js                                        0.07 kB │ gzip:  0.09 kB
+build/client/assets/gitlab-logo-Di094duH.js                                       0.07 kB │ gzip:  0.09 kB
+build/client/assets/google-logo-C_szah0w.js                                       0.07 kB │ gzip:  0.09 kB
+build/client/assets/github-white-ChyV_wsU.js                                      0.12 kB │ gzip:  0.11 kB
+build/client/assets/link-CvXtRfRL.js                                              0.22 kB │ gzip:  0.19 kB
+build/client/assets/use-user-D94HquV7.js                                          0.24 kB │ gzip:  0.21 kB
+build/client/assets/use-theme-CYNW6_yD.js                                         0.24 kB │ gzip:  0.21 kB
+build/client/assets/use-instance-CkArE5we.js                                      0.25 kB │ gzip:  0.21 kB
+build/client/assets/use-workspace-B7avqqlp.js                                     0.25 kB │ gzip:  0.21 kB
+build/client/assets/helper-CmYjNUif.js                                            0.36 kB │ gzip:  0.26 kB
+build/client/assets/navigation-BHLSI9iT.js                                        0.41 kB │ gzip:  0.29 kB
+build/client/assets/logo-spinner-BV29B0G2.js                                      0.41 kB │ gzip:  0.31 kB
+build/client/assets/external-link-CxtUi1X8.js                                     0.42 kB │ gzip:  0.30 kB
+build/client/assets/monitor-DbSW9kUQ.js                                           0.43 kB │ gzip:  0.31 kB
+build/client/assets/layout-DLoHvGYO.js                                            0.57 kB │ gzip:  0.40 kB
+build/client/assets/authentication-method-card-QbZyRS5a.js                        0.93 kB │ gzip:  0.47 kB
+build/client/assets/eye-CKm8Qo8U.js                                               0.97 kB │ gzip:  0.45 kB
+build/client/assets/404-D7FYcwc-.js                                               1.16 kB │ gzip:  0.64 kB
+build/client/assets/controller-input-Ch9fJpKv.js                                  1.29 kB │ gzip:  0.63 kB
+build/client/assets/page-BV14cBE3.js                                              2.70 kB │ gzip:  1.35 kB
+build/client/assets/password-config-switch-CPChmo_o.js                            3.23 kB │ gzip:  0.96 kB
+build/client/assets/index.module-D2LUA61L.js                                      3.57 kB │ gzip:  1.60 kB
+build/client/assets/copy-field-B4xugwUu.js                                        3.85 kB │ gzip:  1.65 kB
+build/client/assets/button-CJES52DI-LZmtqnY7.js                                   4.04 kB │ gzip:  1.10 kB
+build/client/assets/page-Hnke_Swp.js                                              4.41 kB │ gzip:  1.92 kB
+build/client/assets/page-CuZ1qAAV.js                                              5.44 kB │ gzip:  2.11 kB
+build/client/assets/page-cr61wSex.js                                              6.09 kB │ gzip:  2.47 kB
+build/client/assets/page-DBo8RFIm.js                                              6.24 kB │ gzip:  2.53 kB
+build/client/assets/page-D5CAWLEN.js                                              6.91 kB │ gzip:  2.67 kB
+build/client/assets/page-KwTxqKsY.js                                              6.98 kB │ gzip:  2.59 kB
+build/client/assets/page-DqLXpDUo.js                                              7.01 kB │ gzip:  2.57 kB
+build/client/assets/page-Bnw8GeVm.js                                              7.12 kB │ gzip:  2.65 kB
+build/client/assets/transition-Cll_7jRI.js                                        7.66 kB │ gzip:  3.09 kB
+build/client/assets/page-9HuWd-Uu.js                                              7.72 kB │ gzip:  2.82 kB
+build/client/assets/page-BCOGQsxC.js                                              8.95 kB │ gzip:  3.22 kB
+build/client/assets/index-Dc4aw0qJ.js                                             9.26 kB │ gzip:  4.45 kB
+build/client/assets/root-BjgeU9cD.js                                             10.46 kB │ gzip:  3.79 kB
+build/client/assets/dialog-DvpWpn9V.js                                           16.87 kB │ gzip:  6.36 kB
+build/client/assets/page-e8lht5CH.js                                             18.11 kB │ gzip:  4.57 kB
+build/client/assets/index-BVHUuPnE.js                                            23.51 kB │ gzip:  8.25 kB
+build/client/assets/index.esm-XeU7nagb.js                                        23.69 kB │ gzip:  8.98 kB
+build/client/assets/classname-iNHf9Pb8-5LSAqF-w.js                               24.85 kB │ gzip:  7.93 kB
+build/client/assets/layout-DmMfrcA-.js                                           29.20 kB │ gzip:  9.12 kB
+build/client/assets/debug-build-Bd7KsjRG.js                                      30.44 kB │ gzip: 10.60 kB
+build/client/assets/entry.client-Djdytix-.js                                     56.43 kB │ gzip: 20.40 kB
+build/client/assets/index-CzOQsu2R.js                                            74.82 kB │ gzip: 27.98 kB
+build/client/assets/chunk-UIGDSWPH-DWOOOxqk.js                                  118.11 kB │ gzip: 39.91 kB
+build/client/assets/store.provider-C9rYaGrA.js                                  121.08 kB │ gzip: 39.29 kB
+build/client/assets/index-Dq3cOres.js                                           134.67 kB │ gzip: 43.24 kB
+build/client/assets/index-vgvgxTJM.js                                           328.76 kB │ gzip: 99.91 kB
+✓ built in 7.56s
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/admin/.env[39m
+[38;5;142m[dotenvx@1.51.1] injecting env (0) from /root/plane-hybrid-deployment/admin/.env[39m
+vite v7.1.11 building SSR bundle for production...
+transforming...
+✓ 767 modules transformed.
+rendering chunks...
+build/server/assets/favicon-16x16-B_Opgp1K.png                                    0.47 kB
+build/server/assets/favicon-32x32-cfWXc3P9.png                                    0.76 kB
+build/server/.vite/manifest.json                                                  3.95 kB
+build/server/assets/apple-touch-icon-BmADsVmV.png                                 6.29 kB
+build/server/assets/favicon-DJlV-mcI.ico                                         15.41 kB
+build/server/assets/inter-v13-latin-regular-BT1H-PT_.woff2                       21.56 kB
+build/server/assets/inter-v13-latin-200-BJ9n9uBU.woff2                           22.44 kB
+build/server/assets/inter-v13-latin-300-IcD-qYDc.woff2                           22.44 kB
+build/server/assets/inter-v13-latin-500-kWhwEdDH.woff2                           22.76 kB
+build/server/assets/inter-v13-latin-800-mdTeNKyI.woff2                           22.79 kB
+build/server/assets/inter-v13-latin-600-B2Ssfs8e.woff2                           22.82 kB
+build/server/assets/inter-v13-latin-700-C2zfFY7I.woff2                           22.90 kB
+build/server/assets/material-symbols-rounded-v168-latin-regular-DuglM4Ng.woff2  282.66 kB
+build/server/assets/logo-spinner-light-DmBc4A-4.gif                             427.97 kB
+build/server/assets/logo-spinner-dark-Cc1AqekO.gif                              976.40 kB
+build/server/assets/server-build-BbJEVIxR.css                                     2.26 kB
+build/server/assets/globals-DellznQo.css                                         37.87 kB
+build/server/index.js                                                           284.42 kB
+
+✓ 16 assets cleaned from React Router server build.
+build/client/assets/globals-DellznQo.css
+build/client/assets/apple-touch-icon-BmADsVmV.png
+build/client/assets/favicon-16x16-B_Opgp1K.png
+build/client/assets/favicon-32x32-cfWXc3P9.png
+build/client/assets/favicon-DJlV-mcI.ico
+build/client/assets/logo-spinner-dark-Cc1AqekO.gif
+build/client/assets/logo-spinner-light-DmBc4A-4.gif
+build/client/assets/inter-v13-latin-200-BJ9n9uBU.woff2
+build/client/assets/inter-v13-latin-300-IcD-qYDc.woff2
+build/client/assets/inter-v13-latin-regular-BT1H-PT_.woff2
+build/client/assets/inter-v13-latin-500-kWhwEdDH.woff2
+build/client/assets/inter-v13-latin-600-B2Ssfs8e.woff2
+build/client/assets/inter-v13-latin-700-C2zfFY7I.woff2
+build/client/assets/inter-v13-latin-800-mdTeNKyI.woff2
+build/client/assets/material-symbols-rounded-v168-latin-regular-DuglM4Ng.woff2
+build/server/assets/server-build-BbJEVIxR.css
+
+SPA Mode: Generated build/client/index.html
+Removing the server build in /root/plane-hybrid-deployment/admin/build/server due to ssr:false
+✓ built in 1.74s

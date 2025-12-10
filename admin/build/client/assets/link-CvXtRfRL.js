@@ -1,0 +1,1 @@
+import{o as e,A as l}from"./chunk-UIGDSWPH-DWOOOxqk.js";import{e as t}from"./helper-CmYjNUif.js";function f({href:r,replace:o,prefetch:a,scroll:i,shallow:n,...s}){return e.jsx(l,{to:t(r),replace:o,...s})}export{f as L};

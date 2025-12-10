@@ -1,0 +1,1 @@
+import{r as t}from"./chunk-UIGDSWPH-DWOOOxqk.js";import{d as e}from"./store.provider-C9rYaGrA.js";const n=()=>{const r=t.useContext(e);if(r===void 0)throw new Error("useUser must be used within StoreProvider");return r.user};export{n as u};

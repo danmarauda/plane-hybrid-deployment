@@ -1,0 +1,1 @@
+import{r as t}from"./chunk-UIGDSWPH-DWOOOxqk.js";import{d as r}from"./store.provider-C9rYaGrA.js";const m=()=>{const e=t.useContext(r);if(e===void 0)throw new Error("useTheme must be used within StoreProvider");return e.theme};export{m as u};

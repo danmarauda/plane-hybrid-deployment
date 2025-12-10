@@ -1,0 +1,11 @@
+
+> @plane/hooks@1.2.0 build /root/plane-hybrid-deployment/packages/hooks
+> tsdown
+
+ℹ tsdown v0.16.0 powered by rolldown v1.0.0-beta.46
+ℹ Using tsdown config: /root/plane-hybrid-deployment/packages/hooks/tsdown.config.ts
+ℹ entry: src/index.ts
+ℹ tsconfig: tsconfig.json
+ℹ Build start
+ℹ Cleaning 4 files
+ ELIFECYCLE  Command failed.
