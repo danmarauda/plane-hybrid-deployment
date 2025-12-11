@@ -1,6 +1,6 @@
 import * as React from "react";
-import { ChevronRightIcon } from "@plane/propel/icons";
-import { Tooltip } from "@plane/propel/tooltip";
+import { ChevronRightIcon } from "@aliaspropel/icons";
+import { Tooltip } from "@aliaspropel/tooltip";
 import { cn } from "../utils";
 
 type BreadcrumbsProps = {

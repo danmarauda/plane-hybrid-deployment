@@ -5,7 +5,7 @@ import type { BubbleMenuProps } from "@tiptap/react";
 import type { FC } from "react";
 import { useEffect, useState, useRef } from "react";
 // plane utils
-import { cn } from "@plane/utils";
+import { cn } from "@aliasutils";
 // components
 import type { EditorMenuItem } from "@/components/menus";
 import {

@@ -1,7 +1,7 @@
 import type { FC } from "react";
 import React from "react";
-import type { ISvgIcons } from "@plane/propel/icons";
-import { DropdownIcon } from "@plane/propel/icons";
+import type { ISvgIcons } from "@aliaspropel/icons";
+import { DropdownIcon } from "@aliaspropel/icons";
 import { cn } from "../utils";
 
 type Props = {

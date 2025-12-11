@@ -3,7 +3,7 @@ import { ALargeSmall, Ban } from "lucide-react";
 import { useMemo } from "react";
 import type { FC } from "react";
 // plane utils
-import { cn } from "@plane/utils";
+import { cn } from "@aliasutils";
 // constants
 import { COLORS_LIST } from "@/constants/common";
 // local imports

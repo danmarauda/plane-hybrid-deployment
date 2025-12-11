@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { cn } from "@plane/utils";
+import { cn } from "@aliasutils";
 import { AuthInput } from "./auth-input";
 
 export interface AuthConfirmPasswordInputProps extends Omit<

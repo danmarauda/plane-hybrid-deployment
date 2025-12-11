@@ -1,5 +1,5 @@
 import React from "react";
-import { Tooltip } from "@plane/propel/tooltip";
+import { Tooltip } from "@aliaspropel/tooltip";
 import { cn } from "../utils";
 
 type Props = {

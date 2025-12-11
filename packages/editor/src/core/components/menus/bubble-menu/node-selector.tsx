@@ -1,9 +1,9 @@
 import type { Editor } from "@tiptap/react";
 import { Check } from "lucide-react";
 import type { FC } from "react";
-import { ChevronDownIcon } from "@plane/propel/icons";
+import { ChevronDownIcon } from "@aliaspropel/icons";
 // plane utils
-import { cn } from "@plane/utils";
+import { cn } from "@aliasutils";
 // components
 import type { EditorMenuItem } from "@/components/menus";
 import {

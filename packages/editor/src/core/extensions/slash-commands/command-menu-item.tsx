@@ -1,5 +1,5 @@
 // plane utils
-import { cn } from "@plane/utils";
+import { cn } from "@aliasutils";
 // types
 import type { ISlashCommandItem } from "@/types";
 

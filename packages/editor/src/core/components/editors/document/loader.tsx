@@ -1,6 +1,6 @@
 // plane imports
-import { Loader } from "@plane/ui";
-import { cn } from "@plane/utils";
+import { Loader } from "@aliasui";
+import { cn } from "@aliasutils";
 
 type Props = {
   className?: string;

@@ -1,6 +1,6 @@
 import React, { useMemo } from "react";
 // plane imports
-import { cn } from "@plane/utils";
+import { cn } from "@aliasutils";
 // components
 import { PageRenderer } from "@/components/editors";
 // constants

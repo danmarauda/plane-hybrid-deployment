@@ -7,7 +7,7 @@ import { PlaneLockup } from "@plane/propel/icons";
 // assets
 import PlaneBackgroundPatternDark from "@/app/assets/auth/background-pattern-dark.svg?url";
 import PlaneBackgroundPattern from "@/app/assets/auth/background-pattern.svg?url";
-import PlaneTakeOffImage from "@/app/assets/plane-takeoff.png?url";
+import PlaneTakeOffImage from "@/app/assets/alias-takeoff.png?url";
 
 export function InstanceNotReady() {
   const { resolvedTheme } = useTheme();

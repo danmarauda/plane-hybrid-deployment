@@ -3,8 +3,8 @@ import { MoreHorizontal } from "lucide-react";
 import * as React from "react";
 import ReactDOM from "react-dom";
 import { usePopper } from "react-popper";
-import { useOutsideClickDetector } from "@plane/hooks";
-import { ChevronDownIcon, ChevronRightIcon } from "@plane/propel/icons";
+import { useOutsideClickDetector } from "@aliashooks";
+import { ChevronDownIcon, ChevronRightIcon } from "@aliaspropel/icons";
 // plane helpers
 // helpers
 import { useDropdownKeyDown } from "../hooks/use-dropdown-key-down";

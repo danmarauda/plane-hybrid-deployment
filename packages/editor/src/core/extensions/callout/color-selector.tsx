@@ -1,7 +1,7 @@
 import { Ban } from "lucide-react";
-import { ChevronDownIcon } from "@plane/propel/icons";
+import { ChevronDownIcon } from "@aliaspropel/icons";
 // plane utils
-import { cn } from "@plane/utils";
+import { cn } from "@aliasutils";
 // constants
 import { COLORS_LIST } from "@/constants/common";
 

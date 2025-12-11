@@ -1,7 +1,7 @@
 import type { Editor } from "@tiptap/core";
 import { useState } from "react";
 // plane imports
-import { cn } from "@plane/utils";
+import { cn } from "@aliasutils";
 // local imports
 import type { TCustomImageAlignment } from "../../types";
 import { ImageAlignmentAction } from "./alignment";

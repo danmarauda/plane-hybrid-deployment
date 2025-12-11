@@ -3,7 +3,7 @@ import { Check, Link, Trash2 } from "lucide-react";
 import type { FC } from "react";
 import { useCallback, useRef, useState } from "react";
 // plane imports
-import { cn } from "@plane/utils";
+import { cn } from "@aliasutils";
 // constants
 import { CORE_EXTENSIONS } from "@/constants/extension";
 // helpers

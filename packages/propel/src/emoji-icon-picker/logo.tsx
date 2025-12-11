@@ -4,7 +4,7 @@ import type { FC } from "react";
 
 import useFontFaceObserver from "use-font-face-observer";
 // plane imports
-import type { TLogoProps } from "@plane/types";
+import type { TLogoProps } from "@aliastypes";
 // local imports
 import { getEmojiSize, stringToEmoji } from "./helper";
 import { LUCIDE_ICONS_LIST } from "./lucide-icons";
